@@ -1,41 +1,101 @@
-# Website
+# What's In This Document
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+- [Get Started in 5 Minutes](#get-started-in-5-minutes)
+- [Editing Content](#editing-content)
+- [Adding Content](#adding-content)
 
-### Installation
+# Get Started in 5 Minutes
 
-```
-$ yarn
-```
+1. Make sure all the dependencies for the website are installed:
 
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
+```sh
+# Install dependencies
+$ npm install
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+2. Run your dev server:
 
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
+```sh
+# Start the site
+$ npm start
 ```
 
-Not using SSH:
+# Editing Content
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
+## Editing an existing docs page
+
+Edit docs by navigating to `docs/` and editing the corresponding document:
+
+`docs/doc-to-be-edited.mdx`
+
+```markdown
+---
+id: page-needs-edit
+title: This Doc Needs To Be Edited
+---
+
+Edit me...
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+For more information about docs, click [here](https://v2.docusaurus.io/docs)
+
+## Editing an existing blog post
+
+Edit blog posts by navigating to `blog` and editing the corresponding post:
+
+`blog/post-to-be-edited.mdx`
+
+```markdown
+---
+id: post-needs-edit
+title: This Blog Post Needs To Be Edited
+---
+
+Edit me...
+```
+
+For more information about blog posts, click
+[here](https://v2.docusaurus.io/docs/blog)
+
+# Adding Content
+
+## Adding a new docs page to an existing sidebar
+
+1. Create the doc as a new markdown file in `/docs`, example
+   `docs/newly-created-doc.mdx`:
+
+```md
+---
+id: newly-created-doc
+title: This Doc Needs To Be Edited
+---
+
+My new content here..
+```
+
+Note: Ensure the file name and the id value do not include non-url safe
+characters i.e. '\*'.
+
+2. Refer to that doc's ID in an existing sidebar in `sidebar.json`:
+
+```javascript
+// Add newly-created-doc to the Getting Started category of docs
+{
+  "docs": {
+    "Getting Started": [
+      "quick-start",
+      "newly-created-doc" // new doc here
+    ],
+    ...
+  },
+  ...
+}
+```
+
+For more information about adding new docs, click
+[here](https://v2.docusaurus.io/docs/)
+
+## Contributors
+
+Thanks goes to these wonderful people
+([emoji key](https://allcontributors.org/docs/en/emoji-key)):
