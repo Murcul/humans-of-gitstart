@@ -55,7 +55,7 @@ const config: Config = {
       title: 'Humans of GitStart',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/gitstart.png',
       },
       items: [
         // {
