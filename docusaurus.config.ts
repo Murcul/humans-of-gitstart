@@ -7,16 +7,10 @@ const config: Config = {
   tagline: 'Humans of GitStart',
   favicon: 'img/favicon.ico',
 
-  // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
+  url: 'https://humansof.gitstart.com',
   baseUrl: '/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'gitstart', // Usually your GitHub org/user name.
-  projectName: 'gitstart docusaurus', // Usually your repo name.
+  organizationName: 'gitstart',
+  projectName: 'humans-of-gitstart',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -36,7 +30,6 @@ const config: Config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
         },
         blog: {
           showReadingTime: true,
@@ -49,12 +42,12 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
+    // TO REPLACE
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'Humans of GitStart',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Site Logo',
         src: 'img/gitstart.png',
       },
       items: [
@@ -66,7 +59,7 @@ const config: Config = {
         // },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/GitStartHQ',
           label: 'GitHub',
           position: 'right',
         },
@@ -74,47 +67,17 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Company',
-              to: '/docs/intro',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
-        },
-      ],
+      // links: [
+      //   {
+      //     title: 'Docs',
+      //     items: [
+      //       {
+      //         label: 'Company',
+      //         to: '/docs/intro',
+      //       },
+      //     ],
+      //   },
+      // ],
       copyright: `Copyright © ${new Date().getFullYear()} Humans of GitStart, Inc. Built with Docusaurus.`,
     },
     prism: {
