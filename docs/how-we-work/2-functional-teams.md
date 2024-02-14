@@ -19,5 +19,5 @@ We operate small functional aligned to deliverables and accountability. This hel
   - Growth - Our revenue engine
   - Product - ...
   - Operations - A catch all for finance, HR and legal.
-- Each team has a team lead that forms part of our Cross Team management team
+  - Each team has a team lead that forms part of our Cross Team management team
   - Cross Team is there to set and align the strategy ....
