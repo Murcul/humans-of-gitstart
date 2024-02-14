@@ -42,8 +42,8 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // TO REPLACE
-    image: 'img/docusaurus-social-card.jpg',
+    // TO REPLACE https://gitstart.com/_astro/ogimage.b7ebcb01.png
+    image: 'img/gs-ogimage.png',
     navbar: {
       title: 'Humans of GitStart',
       logo: {
