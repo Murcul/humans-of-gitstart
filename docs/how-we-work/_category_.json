@@ -2,6 +2,7 @@
   "label": "How we work",
   "position": 2,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "How we work and collaborate in a fully remote company."
   }
 }
