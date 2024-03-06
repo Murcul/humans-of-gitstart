@@ -5,11 +5,9 @@ sidebar_position: 5
 # Communication
 
 <aside>
-💡 This playbook is to create norms of collaboration and behavior that reduce misunderstandings and increase efficiency while showing respect to others. It includes three principles: **Value Visibly, Communicate Carefully and Collaborate Confidently.** 
+💡 This playbook is to create norms of collaboration and behavior that reduce misunderstandings and increase efficiency while showing respect to others. It includes three principles: **Value Visibly, Communicate Carefully and Collaborate Confidently.**
 
 </aside>
-
- 
 
 ### Value Visibly
 
@@ -54,6 +52,6 @@ what other departments do—and establishing clear norms on how they interact wi
 
 
 
-Reference: 
+Reference:
 
 [Digital Body Language: How to Build Trust and Connection, No Matter the Distance](https://www.amazon.com/Digital-Body-Language-Connection-Distance/dp/1250246520)
