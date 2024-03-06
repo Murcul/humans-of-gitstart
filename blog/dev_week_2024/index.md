@@ -1,6 +1,6 @@
 ---
 slug: dev-week-2024
-title: SDLC Innovations at Developer Week 2024
+title: SDLC Innovations at DevWeek 24
 authors: [gitstart]
 tags: [DeveloperWeek 2024, conference]
 ---

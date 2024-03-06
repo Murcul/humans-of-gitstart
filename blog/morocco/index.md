@@ -1,20 +1,26 @@
-## Morocco onsite
-Our stay in Essaouira was marked by the convenience of full-board services that catered to our every need, allowing us to fully immerse ourselves in the experience. Surrounded by breathtaking views, we found inspiration in the beauty that enveloped us, enhancing our overall sense of connection and appreciation for the locale
+---
+slug: morocco-2023
+title: Morocco Onsite 2023
+authors: [gitstart]
+tags: [onsite]
+---
 
-![WechatIMG2283.jpg](../Pictures/morocco-view.jpg)
+Staying in Essaouira was a breeze thanks to the full-board setup that took care of us from dawn till dusk, giving us the chance to dive deep into the vibe of the place. It's hard not to feel inspired when you're waking up to killer views every day, making us all feel a bit more plugged into the magic of the area.
 
-![Untitled](../Pictures/morocco-setting.png)
+![WechatIMG2283.jpg](./morocco-view.png)
 
-![Untitled](../Pictures/morocco-food-prep.png)
+![Untitled](./morocco-setting.png)
+
+![Untitled](./morocco-food-prep.png)
 
 During our time in Essaouira, we achieved major milestones including a company rebrand, a new website launch, and a successful 24-hour hackathon that enhanced our platform, all while enjoying the beauty of the locale and strengthening team bonds.
 
-![Untitled](../Pictures/Morocco-meeting.png)
+![Untitled](./morocco-meeting.png)
 
-![Untitled](../Pictures/morocco-work.png)
+![Untitled](./morocco-work.png)
 
-A highlight of our time in Essaouira was the special ceremony held to welcome new team members. Engaging in team-building activities such as surfing and savoring local delicacies further strengthened our bonds and created lasting memories that will continue to resonate within our team.
+One of the coolest moments was when we welcomed our newest recruits with a ceremony that felt truly special. Getting to know each other over surf lessons and munching on the local eats didn't just make for some great laughs; it felt like we were building a family. Those memories are sticking with us, big time.
 
-![Untitled](../Pictures/morocco-ceremony.png)
+![Untitled](./morocco-ceremony.png)
 
-![Untitled](../Pictures/morocco-surfing.png)
+![Untitled](./morocco-surfing.png)

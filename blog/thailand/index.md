@@ -1,17 +1,22 @@
-## Thailand onsite
-One of our recent company onsites took us to the enchanting city of Chiang Mai, nestled amidst the natural beauty of northern Thailand. Chiang Mai's rich cultural heritage and picturesque landscapes set the stage for a truly memorable and productive experience for our team.
+---
+slug: thailand-2022
+title: Thailand Onsite 2022
+authors: [gitstart]
+tags: [onsite]
+---
 
-![Git (1)-min.jpg](../Pictures/thai-1.jpg)
+Our latest company trip took us to the beautiful city of Chiang Mai in northern Thailand, a place surrounded by breathtaking natural scenery and steeped in cultural heritage. It was the perfect backdrop for a week that was as enriching as it was unforgettable for our team.
 
-Our onsite experience included major conferences that delved into essential aspects of our company. We engaged in discussions about our company's mission and history, outlined our roadmap for the future, and identified key areas of focus. These sessions not only provided valuable insights but also strengthened the bonds within our team.
+![Git (1)-min.jpg](./thai-1.jpg)
 
-![Untitled](../Pictures/thai-meeting.png)
+In Chiang Mai, our days were packed with conferences where we dug deep into what makes our company tick. We talked about where we've come from, where we're headed, and the big things we want to focus on. These weren't just meetings; they felt more like bonding sessions, giving us all a chance to really connect on what matters to us as a team.
 
-During our time in Chiang Mai, we immersed ourselves in a diverse range of activities that showcased the essence of this vibrant city. From invigorating hikes through lush forests to a heartwarming visit to an elephant sanctuary, we embraced the local way of life and gained valuable insights into the traditions that define Chiang Mai.
+![Untitled](./thai-meeting.png)
 
-![Untitled](../Pictures/thai-food.png)
+But it wasn't all work and no play. We got out there and experienced the best of Chiang Mai, from hiking through the incredible greenery to visiting an elephant sanctuary, which was a highlight for many of us. It was an awesome way to see the city's true colors and learn more about the traditions that make it unique.
 
-![Git-min.jpg](../Pictures/thai-ceremony.jpg)
+![Untitled](./thai-food.png)
 
-![GitStart HQ IMG 5273-min.jpg](../Pictures/thai-%20elephant.jpg)
+![Git-min.jpg](./thai-ceremony.jpg)
 
+![GitStart HQ IMG 5273-min.jpg](./thai-elephant.jpg)
