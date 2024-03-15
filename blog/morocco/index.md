@@ -1,11 +1,11 @@
 ---
 slug: morocco-2023
-title: Morocco Onsite 2023
+title: 🇲🇦 Morocco Onsite 2023
 authors: [gitstart]
 tags: [onsite]
 ---
 
-Staying in Essaouira was a breeze thanks to the full-board setup that took care of us from dawn till dusk, giving us the chance to dive deep into the vibe of the place. It's hard not to feel inspired when you're waking up to killer views every day, making us all feel a bit more plugged into the magic of the area.
+Staying in Essaouira was an absolute dream, thanks to the all-inclusive setup that catered to our every need from sunrise to sunset, immersing us in the local charm and energy 🌅. Waking up to breathtaking views every morning was a constant source of inspiration, connecting us even deeper to the enchanting spirit of the place ✨.
 
 ![WechatIMG2283.jpg](./morocco-view.png)
 
@@ -13,13 +13,13 @@ Staying in Essaouira was a breeze thanks to the full-board setup that took care 
 
 ![Untitled](./morocco-food-prep.png)
 
-During our time in Essaouira, we achieved major milestones including a company rebrand, a new website launch, and a successful 24-hour hackathon that enhanced our platform, all while enjoying the beauty of the locale and strengthening team bonds.
+During our magical stay in Essaouira, we hit some impressive milestones: unveiling a fresh company brand, launching a sleek new website, and pulling off a dynamic 24-hour hackathon that took our platform to the next level, all amidst the stunning backdrop and strong camaraderie 🚀.
 
 ![Untitled](./morocco-meeting.png)
 
 ![Untitled](./morocco-work.png)
 
-One of the coolest moments was when we welcomed our newest recruits with a ceremony that felt truly special. Getting to know each other over surf lessons and munching on the local eats didn't just make for some great laughs; it felt like we were building a family. Those memories are sticking with us, big time.
+One of the highlights was the warm welcome we extended to our newest team members with a heartfelt ceremony that was nothing short of memorable. Diving into surf lessons together and savoring local delicacies not only sparked joy and laughter but also knitted us closer, transforming us into a tight-knit family 🏄‍♂️🍴. Those moments have definitely left a lasting imprint on our hearts.
 
 ![Untitled](./morocco-ceremony.png)
 

@@ -2,53 +2,45 @@
 sidebar_position: 1
 ---
 
-# Culture
+# Culture at GitStart 🌍
 
-So, what's it like working at GitStart?
+Curious about life at GitStart? Here's the insight!
 
-## All remote
-Our team is 100% remote, and distributed across over 6 countries and have a community team in 19 countries
+## All Remote, All Amazing 🚀
+Our team is fully remote, spanning across 7+ countries with a community team in 19 countries. Alongside the essential tools, we also provide a budget to support your setup.
 
-As well as the tools you'll need, we provide a budget to help you ....
+**Why remote works for GitStart:**
+- Global talent 🌐: Access to incredible people from diverse backgrounds.
+- Thoughtfulness 🤔: Encourages thorough thinking and documentation.
+- Uninterrupted creativity 🎨: Perfect for focused work sessions.
+- Result-focused 🎯: Clearer outcomes, valuing achievements over office hours.
 
-All remote has a bunch of advantages:
+## Our Core Values
 
-- We can hire amazing people from a global talent pool with diverse backgrounds and stories.
-- Being remote encourages a deeper level of personal thought and writing things down.
-- It allows for uninterrupted work.
-- It makes results clearer, which helps us hold people to account for outcomes rather than hours spent in the office.
+### Care 💖
+We're all about dedication and taking responsibility for our work and each other.
+- "Help across the aisle": Be there for your team, especially when it leverages our strengths (like engineering).
+- Empathy is key: Understanding the needs of our customers, from teams under pressure to devs eager to grow.
+- Own your mistakes: "You break prod, you fix prod."
+- Bring the energy: Contribute positively to meetings and nurture a supportive atmosphere. We call it "light air".
 
-## Our Values
+### Playful Curiosity 😄
+Embracing new ideas and learning from setbacks, all while keeping work fun.
+- Hackathons and brainstorming: Diving into new tech and innovative solutions.
+- Side projects welcome: Explore, learn, and share your discoveries.
+- Ask "what if": Encourage curiosity and innovation.
+- Fun activities: Let's mix work with play and keep the creativity flowing. Inbox Battle Ships!
 
-### Care
-**Strong dedication and responsibility towards our work and the team.**
-- “Help across the Isle”. Protect your focused time, but in between go across the isle (slack, tandem) esp if it adds leverage (e.g eng)
-- Strong empathy towards our end customers. Teams on a deadline, devs looking to grow
-- "You break prod, you fix prod": taking responsibility for one's actions and rectifying mistakes.
-- Bring energy & initiative to  team meetings and contributing to a supportive team environment.
+### Continuous Improvement 💪
+Focus on constant growth—for yourself, your peers, and GitStart.
+- Feedback culture: Always looking to improve.
+- Every touchpoint matters: Small enhancements lead to big changes.
+- Beyond the lead: Seek mentorship and learning opportunities across all levels.
+- Cross-discipline growth: Invest in broadening your skills.
 
-### Playful Curiosity
-**Exploring new ideas, learning from failures, with a light-hearted approach to work.**
-- Organizing regular hackathons or brainstorming sessions to explore new technologies or solutions.
-- Encourage team members to take on 'side projects' or explore new tools and share what they learn.
-- Ask "what if"
-- Hold regular “fun” activities
-- Let the play and curiosity bleed into work
-
-### Continuous Improvement / Continuous Development
-**Prioritize continuous growth for yourself, peers and the entire company**
-- Culture of feedback and retrospective.
-- “Make everything we touch better”
-- Small improvements compound into larger ones
-- Open up mentorship beyond your lead
-- Investing into cross-discipline programmes
-
-
-### git add / commit / push
-**Metaphorically represents the importance of consistent progress and regular contributions. It emphasizes the significance of continually adding value and acknowledging improvements.**
-- “Think Big, Ship Small”
-- Regularly updating project documentation to reflect changes or new insights.
-- Making and communicating continuous decisions
-  - git add = contribute something! Don’t leave a meeting without saying a word. Don’t read a document without saying something
-  - git commit = commit to a milestone for progress. Commit often.
-  - git push = share and get everyone aboard on your work and take it to production
+### git add / commit / push 🔄
+A metaphor for making steady progress and valuing regular contributions.
+- "Think Big, Ship Small": Aim high but start small.
+- Stay updated: Keep project docs fresh with the latest insights.
+- Speak up: Contribute in meetings, and don't be silent in discussions.
+- Commit and push: Regular milestones and sharing work for collective progress.

@@ -2,39 +2,20 @@
 sidebar_position: 9
 ---
 
-# Security
+# Security: Our Commitment 🛡️
 
-We maintain a robust security program that follows best practice in order to meet the needs of our customers, making GitStart the ideal solution for customers who have their own compliance obligations. GitStart customers own all the code  they send to us and all work we submit on their code. We work exclusively on code and interact with tickets, we do not touch or process any data collected, owner or managed by our customers.
+At GitStart, security isn't just a priority; it's foundational to our service, ensuring we meet and exceed the stringent compliance requirements of our customers. We've crafted a robust security framework that aligns with best practices, allowing our clients to confidently entrust us with their code, knowing it remains their property throughout our engagement. Our operations are streamlined to focus exclusively on code and ticket interaction, ensuring no direct contact with customer data.
 
-## SOC 2
+## SOC 2 Compliance 📜
 
-GitStart is certified as SOC 2 Type 1 compliant, following an external audit. We are currently working on out Type 2 audit.
+Proudly, GitStart has achieved SOC 2 Type 1 certification, underscoring our commitment to security best practices through a rigorous external audit. We're actively working towards Type 2 compliance to further solidify our security posture.
 
-Our latest security report is publicly available (last updated December 2023).
+For transparency, our latest security report is accessible to the public, updated as of December 2023.
 
+## Our Security Backbone 🛠️
 
-## Policies
-We have a number of policies in place to support SOC 2 compliance. All team members have been invited to Drata to review these and to complete security training and background checks as part of onboarding.
+Our security infrastructure is built around SOC 2 compliance, supported by comprehensive policies and training. Every team member is onboarded with security in mind, undergoing thorough training and background checks facilitated through our partnership with Drata.
 
-All of these policies are available for viewing upon request:
+While the list of our policies is extensive, it's the spirit behind them that's most important. From Acceptable Use to Vulnerability Management, each policy is designed not just to tick a box but to genuinely safeguard the code and trust placed in us by our clients.
 
-- Acceptable Use Policy
-- Asset Management Policy
-- Backup Policy
-- Business Continuity Plan
-- Code of Conduct
-- Data Classification Policy
-- Data Deletion Policy
-- Data Protection Policy
-- Disaster Recovery Plan
-- Encryption Policy
-- Incident Response Plan
-- Information Security Policy
-- Password Policy
-- Physical Security Policy
-- Responsible Disclosure Policy
-- Risk Assessment Policy
-- Software Development Lifecycle Policy
-- System Access Control Policy
-- Vendor Management Policy
-- Vulnerability Management Policy
+Focusing on security means more than just adhering to a set of rules; it's about creating a culture of vigilance, responsibility, and continuous improvement. At GitStart, we're committed to maintaining the highest standards of security to be the trusted partner our customers need.

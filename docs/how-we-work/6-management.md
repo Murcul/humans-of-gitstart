@@ -2,27 +2,26 @@
 sidebar_position: 6
 ---
 
-# Management
+# Rethinking Management 🔄
 
-Management is charged word and we do not like management per se but without it there would be chaos. We intertwine our management and leadership (for as long as we can)
+At GitStart, the term "management" is nuanced. While we're cautious of traditional management structures, we recognize their necessity to prevent disorder. Our approach blends management with leadership, focusing on empowerment and support.
 
-## What does a manager/lead at GitStart do?
-A manager at GitStart-  has a short list of responsibilities:
+## The GitStart Manager's Role
+Managers at GitStart play a crucial role with a streamlined set of responsibilities:
+- **Provide Context:** Ensure team members have the necessary background to excel in their roles.
+- **Foster Happiness and Productivity:** Create an environment where direct reports feel content and engaged.
+- **Lead Hiring Efforts:** Act as the point person for recruiting new talents to your team.
+- **Smooth Onboarding and Team Bonding:** Facilitate seamless integration for newcomers and plan team-building activities.
+- **Address Performance Issues:** Communicate any team performance concerns with the executive team for guidance.
 
-- Setting the right context for your direct reports to do their jobs
-- Making sure your direct reports are happy and productive
-- Acting as the hiring manager for new roles in your team
-- Creating good plans for new person onboarding and small team offsites
-- Raising team performance concerns with the relevant member of the exec team if you need help
+**And that’s essentially it.**
 
-***That's it.***
+Areas outside a GitStart manager’s purview include:
+- **Compensation Decisions:** We’re developing a transparent compensation formula.
+- **Task Assignment:** Direct reports manage their own tasks.
+- **Career Progression Planning:** Instead of managers, we utilize other mechanisms for career growth.
+- **Team Structure Decisions:** Handled by the cross-team to maintain a cohesive strategy.
+- **HR Concerns:** Operational leaders tackle HR matters.
+- **Legal Matters:** Any legal issues or employment decisions are directed to the cross-team.
 
-A manager at GitStart is not responsible for:
-
-- Deciding compensation - we are developing a compensation calculator
-- Setting tasks for direct reports
-- Providing a career progression plan for the team
-- Figuring out team structure - today that is all handled by the cross team
-- Dealing with HR issues - you should escalate these to the Ops lead
-- Anything legal-related, e.g. someone wants to quit or thinks they did something illegal - route this to the cross team
-- Deciding to hire or fire people - cross team does this
+Our philosophy is about minimizing traditional managerial tasks to focus on leadership and direct support, ensuring our teams are guided by principles of autonomy and empowerment.

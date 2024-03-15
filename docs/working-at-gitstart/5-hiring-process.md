@@ -2,15 +2,22 @@
 sidebar_position: 5
 ---
 
-# Hiring Process
+# Our Approach to Hiring 🚀
 
-## Hackweek based recruiting
+At GitStart, we take a different path when it comes to hiring. We're not big fans of traditional resumes or interviews—though we're always up for a chat! We believe the best way to see if we're a fit for each other is by doing what we love together: coding.
 
-We are weird about hiring. We’re skeptical of resumes and we don’t trust interviews (we’re happy to talk though!). Since nothing beats working together, we love inviting people for a hackweek (or hackweekend) - come hack on a problem with us and see if you like it!
+### Hackweek: A Deep Dive Into Collaboration
 
-It’s compensated, of course. And fast: we typically extend offers within 3 working days, starting from the end of the hackweek.
+We invite potential team members to join us for a hackweek (or hackweekend) to work on a real problem together. This isn't just about assessing skills; it's about experiencing our culture, teamwork, and the excitement of building something great.
 
-Not sure whether this is for you? Read this candidate's feedback!
+### Compensation and Speed
 
-> See, I've been in the industry for quite a long time. And I had lots of interviews and interviewers throughout my career. Some were good, while some sucked big time; as usual. HOWEVER, and I'm not even exaggerating when I say this - interview experience with GitStart was not even ONE OF the best, but absolutely THE BEST I ever had in my 15 years career. Every person that I spoke to in the process was EXTREMELY charismatic, really eager to learn about myself and, what's more, it was absolutely obvious that they LOVED GitStart. I have NEVER EVER EVER seen anything even remotely like this. So how was the process? Amazing! I actually enjoyed it and was looking forward to more of it :D
->
+Participating in a hackweek with us is a paid opportunity. We value your time and effort, and we move quickly—offers typically go out within 3 working days after the hackweek concludes.
+
+### Don't Just Take Our Word for It
+
+Wondering if GitStart's unique approach is right for you? Here's what one candidate had to say after 15 years in the industry:
+
+> "Interview experience with GitStart was not even ONE OF the best, but absolutely THE BEST I ever had in my 15 years career. Every person I spoke to was EXTREMELY charismatic and genuinely interested in me. It was clear they LOVE GitStart. The process was not just enjoyable; I was actually looking forward to more of it :D"
+
+Our hiring process is about more than just finding the right skills; it's about discovering passionate individuals who love what they do and who are looking for an extraordinary place to grow their careers. Join us for a hackweek and see for yourself!
