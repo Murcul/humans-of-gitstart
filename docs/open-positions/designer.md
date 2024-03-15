@@ -4,25 +4,25 @@ sidebar_position: 1
 
 # Product Designer (Mid Level)
 
-**Responsibilities:**
-- Develop and uphold detailed specifications and design patterns for user interfaces.
-- Analyze, enhance, and expand an existing design system in line with brand direction.
-- Engage collaboratively with the product team, fellow engineers, and various teams at GitStart, bridging the realms of code, design, and branding.
+**What You'll Do: 🚀**
+- Craft and maintain precise specs and designs for UI that users love. 🎨
+- Give our design system a makeover and expansion that aligns perfectly with our brand vibe.
+- Collaborate with our product, engineering (wizards), and teams across GitStart, creating a sweet spot where coding meets design and brand identity.
 
-**Our Ideal Candidate:**
-- Has a solid understanding of the software development lifecycle and is not intimidated by tasks such as building a code review tool or conceptualizing a CLI or IDE.
-- Possesses outstanding asynchronous communication and collaboration abilities, with experience in keeping teams updated across different platforms and formats.
-- Is able to explain design concepts and the reasoning behind design decisions to a diverse audience, including product managers, engineers, and non-engineers.
-- Knows the optimal moments to engage stakeholders throughout the design process.
-- Recognizes the balance between ideal design aspirations and the practical considerations of delivering in a startup environment, knowing when to be firm and when to rely on expert judgment.
-- Is a strong critical and conceptual thinker, capable of broad perspective thinking as well as recognizing interconnections.
-- Has experience in UX research, capable of conducting user studies independently or participating in research initiatives led by others, and integrating feedback into design enhancements.
-- Demonstrates a strong work ethic, with the ability to work both independently and collaboratively with engineers, valuing both deep work and engaging pairing sessions.
-- Understands brand and branding, recognizing how to translate existing brand directions into intuitive and meaningful user experiences.
-- Is deeply passionate about design, product, and exceptional user experiences, often engaging with software outside of work out of genuine interest.
+**Who We're Looking For: 🌟**
+- Someone who's comfortable deep diving into to the software development lifecycle and gets excited about projects like developing a code review tool or dreaming up a new CLI or IDE. 🛠
+- Solid async communication skills, keeping everyone in the loop across platforms and formats.
+- A design storyteller, able to unpack your design choices to anyone from product managers to engineers and even folks who aren't tech-savvy. 📖
+- Knows just when to pull in stakeholders during the design journey. ⏳
+- Balances idealistic designs with the real-world hustle of startup life, using expert judgment to navigate through.
+- A thinker who sees the big picture and how all the dots connect. 🌐
+- Ready to dive into UX research, lead user studies, or hop on research projects, always keen to integrate feedback into making designs even better. 🔍
+- Proud of your strong work ethic, happy to fly solo or team up for some serious code pairing or brainstorming sessions. 🤹
+- Gets branding and how to evolve brand directions into killer user experiences. 🎨
+- Deeply passionate about design, products, and making users go "wow!", always tinkering with software just because you love it. ❤️
 
-**Tools of the Trade:**
-- Proficiency in Figma is required; familiarity with InDesign and Illustrator is a plus. Additionally, experience with Linear, GitHub, and Slack is expected.
+**Tech Toolkit: 🔧**
+- Must be a Figma pro (InDesign and Illustrator also work). Also, familair with Linear, GitHub, and Slack is key. 🧙‍♂️
 
-**Nice to Have:**
-- A perfect addition to our culture would be someone who has initiated and launched their own project, regardless of scale. Many at GitStart possess an entrepreneurial and creative spirit, making individuals with such experience and mindset feel particularly at home. Additionally, there may be opportunities to share your project in a Show & Tell session!
+**Would Be Awesome:**
+- If you've ever kicked off your own project, you're our kind of people! We thrive on creativity and entrepreneurial energy, and your experience would resonate here. Plus, you can showcase your project in a Show & Tell! 🎤

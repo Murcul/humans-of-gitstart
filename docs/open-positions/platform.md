@@ -4,24 +4,24 @@ sidebar_position: 3
 
 # Platform Engineer
 
-**Responsibilities:**
-- Lead the design, construction, and maintenance of critical platform services including the GraphQL federation gateway, GitSlice infrastructure, and webhooks processing infrastructure.
-- Collaborate with other engineering teams to define the platform roadmap and address service requests efficiently.
-- Assume responsibility for DevOps tasks, including database management and overseeing the deployment of services.
-- Initiate and potentially lead the development of a dedicated platform team as the project progresses.
+**Your Mission Should You Choose to Accept:**
+- Be the mastermind behind our key platform services like the GraphQL federation gateway, GitSlice infrastructure, and the wizardry of webhooks processing. 🧙‍♂️
+- Join forces with our engineering allies to map out the platform’s future and tackle service quests with finesse.
+- Take the helm of DevOps adventures, from database realms to deploying services with precision.
+- Lead the charge in crafting a dedicated platform squad as our saga unfolds. 🛡️
 
-**Our Ideal Candidate:**
-- Possess at least 7 years of experience in software engineering, with a specific focus on backend/platform development.
-- Demonstrate the ability to independently oversee complex service stacks, guiding projects to successful completion with little to no guidance.
-- Show proficiency or the capacity to quickly master our core technologies, including PostgreSQL, Elixir, TypeScript, and Python.
-- Have a solid understanding of GraphQL, API design, and service-oriented architecture.
+**The Hero We’re Scouting For:**
+- Brings a treasure trove of at least 7 years in software engineering, with tales of valor in backend/platform development. 🗝️
+- Commands the art of navigating complex service landscapes, steering projects to glory with minimal maps.
+- Skilled in the arcane languages of PostgreSQL, Elixir, TypeScript, and Python, or a quick study in mastering them. 📚
+- Versed in the ancient lore of GraphQL, API craftsmanship, and the weaving of service-oriented architectures. 🕸️
 
-**Our Ideal Candidate:**
-- Is deeply committed to taking ownership of GitStart’s platform, ensuring its continuous enhancement and reliability.
-- Thrives in collaborative environments, working closely with other teams to align platform development with overall business goals.
-- Excels in a DevOps culture, comfortable with both software development and operational responsibilities.
-- Is proactive in addressing the needs of a growing platform, leading efforts to expand the team and resources as necessary.
-- Values innovation and efficiency, leveraging their extensive experience to contribute to the evolution of GitStart’s technical infrastructure.
+**Champion Qualities: 🛡️**
+- Embarks on a quest to champion GitStart’s platform, ensuring its prowess and steadfastness.
+- Flourishes in the fellowship of teams, merging platform quests with the guild’s overarching ambitions.
+- A stalwart in the DevOps domain, balancing the dual blades of development and operational mastery.
+- Seeks the horizon, ever-ready to bolster our ranks and resources in anticipation of the platform’s destiny. 🌅
+- A sage of innovation and efficiency, casting advancements in GitStart’s technological saga. 🧪
 
-**Nice to Have:**
-- A perfect addition to our culture would be someone who has initiated and launched their own project, regardless of scale. Many at GitStart possess an entrepreneurial and creative spirit, making individuals with such experience and mindset feel particularly at home. Additionally, there may be opportunities to share your project in a Show & Tell session!
+**Bonus Points: 🌠**
+- If you’ve ever set sail on your own venture, no matter the scale, you’ll find kindred spirits here. Our guild is rich with creators and dreamers, eager to hear the tales of your journey. There’s even a stage for you to share your epic in a Show & Tell! 🎤
