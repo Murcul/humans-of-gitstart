@@ -2,12 +2,14 @@
 sidebar_position: 4
 ---
 
-# Time Off
+# Time Off 🌴
 
-We trust teammates to have complete freedom to work and rest whenever’s best for them. It follows that:
+At GitStart, we champion the autonomy and well-being of our team by embracing a flexible approach to work and rest. Understanding that everyone thrives on different schedules, here’s how we handle time off:
 
-- We trust everyone with **unlimited paid holidays** by default.
-- We **approve all leaves** by default. Coordinate holidays with your team before applying for them.
-- The team tends **not to follow public holidays** - you want to take time off whenever you want it, which is not necessarily when other people in your country take it. Also, we can’t easily track public holidays across 15+ countries, so you still want to go through the normal leave process.
+- **Unlimited Paid Holidays:** Trust is at our core, and we extend this trust by offering unlimited paid holidays to our team members.
+- **Default Approval:** We believe in simplifying the leave process. All holidays are approved by default, though we encourage coordination with your team in advance to ensure seamless operations.
+- **Beyond Public Holidays:** Recognizing the diversity of our global team across more than 15 countries, we do not adhere strictly to public holidays. Instead, we empower you to take time off when it suits you best, ensuring you still follow the standard leave process to keep everyone in the loop.
 
-If GitStart is your first job and you’re not sure how to handle holidays, this can help: for most people, regularly taking a couple of days off brings much more balance than taking a chunk of 3 weeks off once a year.
+For those who are navigating the professional world for the first time or anyone unsure about planning their holidays, we’ve observed that taking regular short breaks tends to offer a more balanced recharge than saving up for an extended leave once a year.
+
+At GitStart, your work-life harmony is our priority, offering you the freedom to rest and rejuvenate on your terms.

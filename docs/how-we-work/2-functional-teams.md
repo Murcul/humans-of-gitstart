@@ -2,22 +2,18 @@
 sidebar_position: 2
 ---
 
-# Functional Teams
+# Functional Teams 🚀
 
-GitStart is structured for speed, autonomy and innovation.
+Discover how GitStart thrives on speed, autonomy, and innovation.
 
-GitStart started off as a completely flat company with one big goal: turns ideas into code.
+From its inception, GitStart has cherished a simple yet ambitious vision: turning ideas into code. We've evolved from a flat organizational structure to a dynamic setup of functional teams, each laser-focused on specific deliverables and accountability. This model minimizes managerial layers and empowers those closest to the work, maintaining essential order and insight while dialing down on unnecessary noise.
 
-We operate small functional aligned to deliverables and accountability. This helps lower management overheads and delegate autonomy to where it counts the most. There are loose reporting lines maintained to keep order and provide the insights needed whilst reducing noise.
-
-
-## How it works
-- Teams are aligned according to their the funtion
-  - Engineering - Our core platform team that manages all internal software development
-  - Client Engineering - An A Team dedicated to improving Client....
-  - Remote Engineering - Our Community Team....
-  - Growth - Our revenue engine
-  - Product - ....
-  - Operations - A catch all for finance, HR and legal.
-  - Each team has a team lead that forms part of our Cross Team management team
-  - Cross Team is there to set and align the strategy ....
+## Our Team Blueprint
+- **How We're Organized:** Teams are crafted around their specific functions, ensuring that every piece of the puzzle fits perfectly for maximum efficiency and effectiveness.
+  - **Engineering:** The backbone of GitStart, handling all our internal software developments with precision and care.
+  - **Client Engineering:** Our elite unit focused on elevating client experiences and outcomes.
+  - **Remote Engineering:** The community heartbeat, fostering growth and engagement across our global network.
+  - **Growth:** The drivers of our revenue, constantly pushing the boundaries of what's possible.
+  - **Product:** The visionaries, turning abstract ideas into concrete, impactful solutions.
+  - **Operations:** The glue that holds us together, managing finance, HR, and legal intricacies with finesse.
+- Each team is led by a dedicated leader, contributing to our Cross-Team management group. This collective brainpower is tasked with aligning strategies and ensuring that our collective efforts propel us towards our big goal.

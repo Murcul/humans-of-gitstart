@@ -2,78 +2,59 @@
 sidebar_position: 7
 ---
 
-# Going Linearly
+# Efficiency with Linear 🚀
 
-## Roadmaps
+GitStart thrives on clarity and efficiency, especially when it comes to managing our projects and workflows. Here’s how we utilize Linear to keep our tasks, projects, and roadmaps streamlined and focused.
 
-They have a theme and run on quarterly cycle. We hold the cross team to kick off quarter with roadmap meetings setting high level priorities for product, focus areas, initiatives (max x themes). This focuses resources and direction.
+## Roadmaps: Setting the Quarter’s Pulse 💡
 
-Open the floor on more executional matters -> transcribe to projects in each team to deliver on the theme.
+- **Themes & Cycles:** Each quarter starts with a roadmap meeting, where cross-team collaboration defines the overarching themes, focusing our efforts and resources.
+- **Execution:** We then drill down to more specific projects for each team, all aimed at advancing the quarter's themes.
+- **Visibility:** Roadmaps provide a bird's-eye view of initiatives, not the minutiae of daily tasks.
 
-You can see the high-level initiatives with a roadmap, but not day to day.
+## Projects: Delegating and Executing 🎯
 
-## Projects
+- **Flexibility:** Teams have the autonomy to set their priorities, with projects aligning to the quarterly theme.
+- **Duration Limits:** Projects that exceed a week (but not two) are essential; anything longer requires scoping down to manageable chunks.
 
-They are created to layer and delegate (cross team accountability and supervision) execution. Teams can decide on their own priorities, each project should have a **cycle** limit if it falls into the roadmap.
+## Issues: The Task Blueprint ✍️
 
-Projects must fall within into the theme for the quarter.
+- **Clarity is Key:** Every task needs a clear outcome, whether it’s code, design, or any actionable item.
+- **Ownership:** Assign a single owner, a due date, and a defined outcome to every issue.
+- **Scope:** Issues taking over a week should evolve into projects for better tracking.
 
+## Cycles: Keeping Time on Our Side ⏳
 
-✅ Projects are **needed** if something is going to take more than 1 week but less than 2.
+- **Team-Defined Durations:** Each team decides their cycle length, enhancing transparency on upcoming tasks.
+- **Backlog Management:** Non-cycle issues are backlogged, awaiting prioritization.
+- **Recommended View:** Organize issues by cycle for a concise overview of current and upcoming work.
 
-✅ If the project is expected to take more than 2 weeks.
-  - Scope it down
-  - Reduce it to smaller deliverables
-
-
-## Issues
-
-They should describe a task with a clear, defined outcome. This could be a piece of code, design, document, or action to be taken. If it’s not a task, then it doesn’t belong in the issue tracker. It maybe a project and needs to be fleshed out.
-
-**Everyone writes their own issues or if they're assigned an issue, they get to decide how to execute it.**
-
-Issues don't need to belong to a project, but any issue that takes > 1 week should be a project.
-
-**Every issue  MUST have a SINGLE owner, a due date and an outcome defined.**
-
-## Cycles
-
-1. Teams can decide the cycle duration on their own, and it enables everyone to have a clear view of what’s next in that team.
-2. Issues that don't belong to a cycle are considered backlog.
-3. Recommended view is grouping issues by the cycle:
-
-![linear](img/linear.png)
-
-## Team Settings
+## Team Settings: Fine-Tuning Linear 🛠
 
 ### General
 
-**Make no priority visible.** This will help you assign a priority to each item.
+- **Prioritization Visibility:** Helps in assigning clear priorities to tasks.
 
-![linear1](img/linear1.png)
+![Prioritize Tasks](img/linear1.png)
 
 ### Triage
 
-Enable triage and explicit prioritization. Give triaging responsibility to a person by default. This will help other teams to suggest you tasks.
+- **Enable Triage:** Assign triaging duties to streamline task prioritization.
 
-![linear2](img/linear2.png)
+![Enable Triage](img/linear2.png)
 
 ### Cycles
 
-Enable cycles, and make sure active issues are part of a cycle. Cycle names can be edited and it will apply to subsequent cycles. For example in Ops we use Week Numbers and our cycles are set to 1 week.
+- **Activate Cycles:** Ensure active issues are always part of a cycle, adjusting names as needed for clarity.
 
-![linear3](img/linear3.png)
+![Activate Cycles](img/linear3.png)
 
-## FAQ
+## FAQ: Navigating Our Workflow 🧭
 
-- How is the visibility of issues that don’t belong to a project?
-    - [Issues without a project grouped by teams](https://linear.app/gitstart/view/f4946958-dae4-4a47-93e7-e2b6f6af5f18?layout=list&ordering=priority&grouping=team&showCompletedIssues=week&showSubIssues=true)
-- What’s the best way to monitor recurring tasks?
-    - For recurring issues that take a couple of days with multiple steps create a project template and run as necessary. House it in the “no roadmap” bucket
-    - If the recurring task is more of a to do create an issue template and place in backlog/cycle
-- Milestones?
-    - Don't use for now - we will assess once projects are utilised company wide.
-- What’s the best way to see what a team is doing?
-    - Issues → Group by cycle.
-- I have a project that does not fall neatly into a roadmap, what should I do?
-    - Place it with no roadmap, it may be questioned by other as being of a critical nature or now. Projects which appear too random or vague should be reconsidered.
+- **Issue Visibility:** Issues not tied to a project are grouped by team for easy access.
+- **Recurring Tasks:** Use project templates for complex recurring tasks or issue templates for simpler to-dos.
+- **Milestones:** Currently on hold until we fully integrate project usage.
+- **Team Updates:** Best viewed by grouping issues by cycle.
+- **Off-Roadmap Projects:** If it doesn’t fit a theme, question its immediacy or consider reshaping it.
+
+By harnessing Linear’s capabilities, GitStart not only enhances productivity but also fosters a culture of transparency and focused execution.
