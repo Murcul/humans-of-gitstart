@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Humans of GitStart',
+  title: 'GitStart',
   tagline: 'Humans of GitStart',
   favicon: 'img/favicon.ico',
 
@@ -15,9 +15,6 @@ const config: Config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -42,6 +39,9 @@ const config: Config = {
   ],
 
   themeConfig: {
+    defaultMode: 'light',
+    disableSwitch: false,
+    respectPrefersColorScheme: false,
     image: 'img/gs-ogimage.png',
     navbar: {
       title: 'Humans of GitStart',
@@ -65,19 +65,7 @@ const config: Config = {
       ],
     },
     footer: {
-      style: 'dark',
-      // links: [
-      //   {
-      //     title: 'Docs',
-      //     items: [
-      //       {
-      //         label: 'Company',
-      //         to: '/docs/intro',
-      //       },
-      //     ],
-      //   },
-      // ],
-      copyright: `Copyright © ${new Date().getFullYear()} Humans of GitStart, Inc. Built with Docusaurus.`,
+      copyright: `© ${new Date().getFullYear()} Humans of GitStart`,
     },
     prism: {
       theme: prismThemes.github,

@@ -1,15 +1,15 @@
 ---
-sidebar_position: 3
+sidebar_position: 5
 ---
 
-# Meetings 🤝
+# Meetings
 
-At GitStart, we believe in the power of spontaneity and efficiency in meetings. Long, structured company-wide assemblies aren't our jam.
+We switch between sync and async work regularly. At a company level we have a few "All Hands" formats but we've found that working full remote requires a large dose of flexibility. We recognise the power of IC so keep large meetings to a minimum.
 
 ## Team Autonomy
-Each team has the freedom to design their own meeting rhythms. We've found this autonomy not only strengthens team bonds but also boosts productivity and ensures work aligns perfectly with individual needs.
+Each team has the freedom to design their own meeting rhythms. Do what ever it takes to boost productivity and align based on individual team needs.
 
-## Company-Wide Gatherings 🌐
+## Company-Wide Gatherings
 
 ### GitStart Town Hall 🏛
 - **When & What:** Held monthly, these sessions are our go-to for sharing comprehensive updates on projects, strategic directions, and key achievements. Expect 1 to 2 main topics, outlined in advance to keep everyone in the loop.
