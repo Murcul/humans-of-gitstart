@@ -10,7 +10,7 @@ We take a different path when it comes to hiring. We believe the best way to see
 We try to keep it light and snappy:
 
 1. Brief intro and cultural assessment interview
-2. Technical introdcution to role but team memeber with short take home exercise
+2. Technical introdcution to role by team memeber with short take home exercise
 3. Technical interview (role specific)
 4. **Hackweek** - We invite potential team members to join us for a hackweek (or hackweekend) to work on a real problem together. This isn't just about assessing skills; it's about experiencing our culture, teamwork, and the excitement of building something great.
 5. Offer
