@@ -15,17 +15,17 @@ We try to keep it light and snappy:
 4. **Hackweek** - We invite potential team members to join us for a hackweek (or hackweekend) to work on a real problem together. This isn't just about assessing skills; it's about experiencing our culture, teamwork, and the excitement of building something great.
 5. Offer
 
-The process take about 2 weeks in total with the Hackweek.
+The process take about 2 weeks in total with the Hackweek from 1st interview to offer.
 
 ### Hackweek: A Deep Dive Into Collaboration
 
-During the Hackweek you will work on real problems as we face them. There is nothing scripted or prepared. You will be given access and tools to get the task done and have access and opportunity to speak to key members of our team to learn more about the company, what we do and where we are heading.
+We are weird about hiring. We’re skeptical of resumes and we don’t trust interviews (we’re happy to talk though!). Since nothing beats working together, we love inviting people for a hackweek (or hackweekend) - come hack on a problem with us and see if you like it!
 
-We appreciate a Hackweek is a committment and value your time and effort. Our Hackweeks are paid.
+It’s compensated, of course. And fast: we typically extend offers within 3 working days, starting from the end of the hackweek.
 
 ### Don't Just Take Our Word for It
 
-Wondering if GitStart's unique approach is right for you? Here's what one candidate had to say after 15 years in the industry:
+Wondering if GitStart's unique approach is right for you? Here's what one candidate had to say after 15 years in the industry [source](https://www.glassdoor.com/Interview/GitStartHQ-Senior-Software-Engineer-Interview-Questions-EI_IE3575086.0,10_KO11,35.htm#InterviewReview_70986098)!:
 
 > "Interview experience with GitStart was not even ONE OF the best, but absolutely THE BEST I ever had in my 15 years career. Every person I spoke to was EXTREMELY charismatic and genuinely interested in me. It was clear they LOVE GitStart. The process was not just enjoyable; I was actually looking forward to more of it :D"
 

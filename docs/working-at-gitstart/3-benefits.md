@@ -11,7 +11,7 @@ We try to support everyone and ensure everyone feels valued, supported, and moti
 - **🌏 Onsites:** We organise and pay for onsite in cool and memorables places. We have an +1 policy.
 - **🏝 Unlimited Paid Time Off:** Take the time you need to relax, explore, and recharge, whenever you need it, without worrying about caps or limits.
 - **🐣 Parental Leave:** Welcoming a new family member is a big moment. We offer generous leave and support to make the transition easy. A few of our team have family - even twins!
-- **🍽 GitStart Meals:** Enjoy meals with teammates. If you are nomadic and in the same city as other GitStarters, we pay for meals.@
+- **🍽 GitStart Meals:** Enjoy meals with teammates. If you are nomadic and in the same city as other GitStarters, we pay for meals.
 
 ### Unique Perks We Take Pride In
 - **🛂 Visa Sponsorship:** Dream of living somewhere new? We'll help sponsor your application and help with the visa.
