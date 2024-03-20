@@ -111,7 +111,7 @@ Not sure whether this is for you? Read this candidate's feedback!
 
 ## How to apply
 
-We'd love to meet you! If you’re interested, [head here](https://app.dover.io/dover/careers/482eaf88-623f-4e72-a58d-10c48df103b9)!
+We'd love to meet you! If you’re interested, [head here](https://app.dover.io/apply/GitStart/69926454-4504-437c-8674-64712a098ec8/?rs=76643084)!
 
 
 If you want to read more about the team first, you'll find more at [Humans of GitStart](https://humansof.gitstart.com).
