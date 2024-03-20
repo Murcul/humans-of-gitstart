@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 📍 Founder-Track Intern (San Francisco housing covered)
+# 📍 Founder-Track Intern
 
 ◯˚GitStart turns tickets into PRs for engineering teams. We're growing fast, with 13k+ PRs shipped to prod for Firefox Mobile, Cal.com, Drata, Supabase, StoryBook, Union Bank, and more.
 
