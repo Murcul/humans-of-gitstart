@@ -32,13 +32,9 @@ More about the story [here](https://gitstart.com/blog/seed-fundraising).
 
 ## Our Amazing Team
 - 🔥 >50% former founders, many from mission driven organizations like mPharma (Africa’s best health tech startup, 1k people $100m raised) and CodePhenix (Europe’s largest coding bootcamp for inmates)
-
 - 🧑‍🔬 Patents holders
-
 - 🧠 A national math olympiad winner and former Typescript team member
-
 - 🌍 ~16 nationalities for ~20 people
-
 - 🤫 And more: a published poet, a sailing world champion, a cricket team coach, two musicians drawing hundreds for concerts, parents, etc.
 
 Also, the number one thing newcomers notice is that people are truly kind 😇. More on this when we meet!
