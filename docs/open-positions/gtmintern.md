@@ -2,29 +2,116 @@
 sidebar_position: 3
 ---
 
-# Devtool Founder Track (Intern)
+# 📍 Founder-Track Intern (San Francisco housing covered)
 
-## 🌟 About the Role 🌟
-Unlocking the secrets of Go-To-Market strategies could be the game-changer between years of crafting barely noticed products and rocketing to success. 🚀 With GitStart's expansion calling for extra talent, you're in for a golden opportunity to hone these critical skills under bespoke mentorship. 🌈
+◯˚GitStart turns tickets into PRs for engineering teams. We're growing fast, with 13k+ PRs shipped to prod for Firefox Mobile, Cal.com, Drata, Supabase, StoryBook, Union Bank, and more.
 
-- ❌ Say no to mundane tasks → ✅ Lead vital projects (like launching our Ticket Writing LLM on ProductHunt, kicking off paid ads, crafting a new funnel to spotlight integrations, and more) 🎯
-- ❌ Beyond mere data entry to cut costs → ✅ Get a budget to supercharge your growth with cutting-edge tools and contractors. 💼
-- ❌ No more feeling adrift without guidance → ✅ Daily hands-on coaching from our founders and specially selected mentors. 🧑‍🏫
+## Your Mission
 
-🔍 Project Sneak Peek:
+Go To Market skills are the difference between wasting years building products with few users and succeeding. Luckily for you, we’re short staffed so we’ll coach you to learn them at GitStart
 
-"Discovering that paid ads brought in 80% of a competitor's clientele within just a year was an eye-opener about its potential impact on our future. I tracked down the genius who built their ad strategy from the ground up and secured his mentorship. With a calendar invite ready, a $3k budget, and the YC-endorsed paid ads course in our toolkit, we're set to soar! Let's hit the ground running!“ 🚀
+- ❌ BS work → ✅ Led high priority projects (launch our Ticket Writing LLM on ProductHunt, start paid ads, set-up a new funnel to promote integrations as a use-case, etc)
+- ❌ Glorified data entry to save money → ✅ Get unlimited budget to accelerate yourself with tools and contractors.
+- ❌ Lack of mentorship → ✅ Work directly with founders and mentors we pay to coach you.
 
-## Perks
-- **Housing Provision:** Enjoy accommodations alongside 2-3 team members (interns engaged in similar projects) at the GitStart House, located in the heart of San Francisco. A  15-minute walk from the Salesforce Tower, this residence boasts ocean views and a great gym.
-- **Exclusive Networking Opportunities:** Participate in events organized by Y Combinator exclusively for summer interns at YC-backed companies, offering unparalleled networking possibilities in San Francisco.
+You'll have a disproportionate impact because:
+
+- We're just starting growth, so all the low hanging fruits are up for grabs
+- You'll be working on the no. 1 priority of the company
+- You'll be surfing a huge wave: the future of engineering with AI is a top trending topic on virtually every platform
+
+**Concrete Project Example:**
+
+"I learned that within a year of launching paid ads, 83% of the clients of a very similar company came from this channel. This could change the trajectory of the company. I found the person who set ads from scratch there and he agreed to coach us for a fee. Here’s the calendar invitation with him, a credit card with $3k, and a paid ads course recommended by veterans. Let’s go!"
+
+**Job Specific Perk: 🏡 Housing is covered** - co-live with another 2-3 teammates (interns working on the same projects) in the GitStart House in center of San Francisco (15’ walk from SalesForce Tower), with sea-view and a great gym.
+
+## Work on Hard Problems
+
+[GitStart.com](http://gitstart.com/) automatically manages AI models and developers across the globe. Engineering teams assign tickets and get back ready to merge PRs. This requires rebuilding the entire engineering stack end-to-end, with pieces like:
+
+- AI-first SDLC - split the software development life-cycle in steps where specialized AI models can generate code and loop in humans to make sure errors don’t propagate.
+- Ticket writing LLM - load context from the codebase and past tickets to write engineering ready tickets
+- GitSlice - securely share subsets of a codebase
+
+## **Backed By the world’s best**
+
+We are supported by the best investors in our field, Neo, YC, Bonfire VC, and the world’s best engineering leaders:
+
+- Microsoft CTO Kevin Scott
+- Google VP Parisa Tabriz
+- [Code.org](http://code.org/) CEO Hadi Partovi
+- Instagram VP Maria Zhang
+- Director of Google Bard Jack Krawczyk
+- Circle CTO Li Fan
+- Airbnb founder Nate Blecharczyk
+- Uber CEO Dara Khosrowshahi
+- Quora CEO Adam D’Angelo
+- Andela founder Iyinola Aboyeji
+- Gigster founder Debo Olaosebikan
+- Replit CEO Amjad Masad
+- Former Facebook CTO Mike Schroepfer
+- And more
+
+## **Join An Amazing team**
+
+Team includes:
+
+🔥 >50% former founders, many of mission driven organizations like mPharma (Africa’s best health tech startup, 1k people $100m raised) and CodePhenix (Europe’s largest coding bootcamp for inmates)
+
+🧑‍🔬  Patents holders
+
+🧠 A national math olympiad winner and former Typescript team member
+
+🌍  ~16 nationalities for ~19 people
+
+🤫 And more: a published poet, a sailing world champion, a cricket team coach, two musicians drawing hundreds for concerts, etc.
+
+Also, the number one thing newcomers notice is that people are truly kind 😇. More on this when we meet!
+
+## Perks and Benefits
+
+Non-standard stuff
+
+⚖️  **10 years options exercise windows** — most startups employees never exercise their hard-earned equity options because the standard clause forces them to buy it within 3 months of departure. We care so much about equity that on top of giving offers way above market, we switched to a new legal documents software solely because the old one didn’t support changing the default “3 months” to “10 years”.
+
+🛂  **We’ll sponsor your visa** — to wherever you want. We already support a long list of countries. If your dream country isn’t on the list, we’ll go the extra mile to make it happen.
+
+👋  **“We got your back” budget** — If you need daycare for your kids, new headphones, or a taxi ride, we got your back. Even if it doesn’t fall into a predefined “perk and benefit” category.
+
+🌱  **Growing you plan** — we’ll help you build your growth plan and support you with all our resources. We’ll intro you to people from Neo, YC, and our own networks, support you with budget to hire coaches and join communities, etc.
+
+🌎  **We are a fully remote company** — We hire the best people in the world without restriction. Work wherever and in whichever timezone you want, and travel around the world to meet the team during quarterly onsites .
+
+Standard stuff
+
+- 📈 Equity for everyone who’s full-time
+- 🌏 Onsites
+- 🏝 Unlimited Paid Time Off
+- 💰 Contributions to a retirement savings plan
+- 🐣 Parental leave
+- 🍽. Meals with fellow GitStarters
+- 🧑🏻‍💻 Remote work budget
+- 📞 Something missing? Tell us
+
+Finally, we offer competitive compensation and meaningful equity along with a chance to make a significant contribution to changing the lives of millions of engineers across the world.
+
+## **Hackweek Based recruiting**
+
+We are weird about hiring. We’re skeptical of resumes and we don’t trust interviews (we’re happy to talk though!). Since nothing beats working together, we love inviting people for a hackweek (or hackweekend) - come hack on a problem with us and see if you like it!
+
+It’s compensated, of course. And fast: we typically extend offers within 3 working days, starting from the end of the hackweek.
+
+Not sure whether this is for you? Read this candidate's feedback!
+
+> 
+
+*For this internship we'll probably replace the hackweek with a short hackday.*
+
+## How to apply
+
+We'd love to meet you! If you’re interested, [head here](https://app.dover.io/dover/careers/482eaf88-623f-4e72-a58d-10c48df103b9)!
 
 
-## How to Apply
-Sound interesting? We are in the lookout for people with passion. If making an impact with your work sounds like your kind of challenge, we're eager to see what you've got.
+If you want to read more about the team first, you'll find more at [Humans of GitStart](https://humansof.gitstart.com).
 
-- **Apply**: Send us you resume, cover letter and answer some quick questions [here](https://app.dover.io/dover/careers/482eaf88-623f-4e72-a58d-10c48df103b9)
-
-- **Showcase Your Work**: Show us what you've build, published, drawn, made, cooked... anything!
-
-Curious about us? Take a peek at Humans of GitStart (https://humansof.gitstart.com).
