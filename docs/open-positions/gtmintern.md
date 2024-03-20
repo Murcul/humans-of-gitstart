@@ -24,7 +24,10 @@ You'll have a disproportionate impact because:
 
 "I learned that within a year of launching paid ads, 83% of the clients of a very similar company came from this channel. This could change the trajectory of the company. I found the person who set ads from scratch there and he agreed to coach us for a fee. Here’s the calendar invitation with him, a credit card with $3k, and a paid ads course recommended by veterans. Let’s go!"
 
-**Job Specific Perk: 🏡 Housing is covered** - co-live with another 2-3 teammates (interns working on the same projects) in the GitStart House in center of San Francisco (15’ walk from SalesForce Tower), with sea-view and a great gym.
+**Job Specific Perk**
+
+- 🏡 Housing is covered - co-live with another 2-3 teammates (interns working on the same projects) in the GitStart House in center of San Francisco (15’ walk from SalesForce Tower), with sea-view and a great gym.
+- Meet people at YC interns only events - YC organizes events in SF for summer interns at YC companies. This internship is elegible for entry at those events.
 
 ## Work on Hard Problems
 
