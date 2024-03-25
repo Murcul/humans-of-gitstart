@@ -1,26 +1,32 @@
 ---
-sidebar_position: 4
+sidebar_position: 2
 ---
 
-# 🛠️ Client Engineering Intern
+# 💾 Platform Engineer
 
 ◯˚GitStart turns tickets into PRs for engineering teams. We're growing fast, with 13k+ PRs shipped to prod for Firefox Mobile, Cal.com, Drata, Supabase, StoryBook, Union Bank, and more.
 
 ## Your Mission
+- Become the architect behind our core platform services like the GraphQL federation gateway, GitSlice infrastructure, and webhooks processing.
+- Collaborate closely with our engineering team to define the platform's direction and address challenges with skill.
+- Lead the way in DevOps initiatives, from managing databases to deploying services with precision.
+- Spearhead the formation of a dedicated platform team as we grow.
 
-You will be joining a newly created team within GitStart called Client Engineering and report directly to the CEO. You will be working directly with engineering teams, who manage some of the largest codebases on the planet. As part of this you will:
+## Who We're Searching For
+- Boasts at least 7 years of experience in software engineering, with a strong background in backend/platform development.
+- Adept at managing complex service ecosystems, guiding projects to success with ease.
+- Proficient in key technologies like PostgreSQL, Elixir, TypeScript, and Python, or eager to learn.
+- Knowledgeable in GraphQL, API design, and building service-oriented architectures.
 
-- Parse through their roadmap and backlog to identify high leverage tickets
-- Find and understand their most pressing pain-points
-- Build and roll-out features to solve those pain-points
-- Analyse and predict their usage through data analysis and ML models
-- Help on-board new teams to effectively accelerate through GitStart
+## Desired Qualities
+- Driven to enhance GitStart’s platform, aiming for top performance and reliability.
+- Thrives in collaborative environments, aligning platform development with broader company goals.
+- Comfortable in a DevOps setting, handling both software development and operational tasks.
+- Forward-thinking, always ready to improve our team and technologies for the platform's future.
+- Values innovation and efficiency, contributing to the evolution of GitStart’s tech landscape.
 
-You'll have a disproportionate impact because:
-
-- We're just starting growth, so all the low hanging fruits are up for grabs
-- You'll be working on the no. 1 priority of the company
-- You'll be surfing a huge wave: the future of engineering with AI is a top trending topic on virtually every platform
+## Extra Awesome
+- Launched your own project? We love entrepreneurial spirits and creative minds! Your journey and experience would resonate well here, and you might get to showcase your work in a Show & Tell session!
 
 ## Work on Hard Problems
 
@@ -51,15 +57,15 @@ We are supported by the best investors in our field, Neo, YC, Bonfire VC, and th
 ## **Join An Amazing team**
 Team includes:
 
-🔥 >50% former founders, many of mission driven organizations like mPharma (Africa’s best health tech startup, 1k people $100m raised) and CodePhenix (Europe’s largest coding bootcamp for inmates)
-🧑‍🔬 Patents holders
-🧠 A national math olympiad winner and former Typescript team member
-🌍 ~16 nationalities for ~19 people
-🤫 And more: a published poet, a sailing world champion, a cricket team coach, two musicians drawing hundreds for concerts, etc.
+- 🔥 >50% former founders, many of mission driven organizations like mPharma (Africa’s best health tech startup, 1k people $100m raised) and CodePhenix (Europe’s largest coding bootcamp for inmates)
+- 🧑‍🔬  Patents holders
+- 🧠 A national math olympiad winner and former Typescript team member
+- 🌍  ~16 nationalities for ~19 people
+- 🤫 And more: a published poet, a sailing world champion, a cricket team coach, two musicians drawing hundreds for concerts, etc.
+
 Also, the number one thing newcomers notice is that people are truly kind 😇. More on this when we meet!
 
 ## Perks and Benefits
-
 Non-standard stuff
 
 ⚖️  **10 years options exercise windows** — most startups employees never exercise their hard-earned equity options because the standard clause forces them to buy it within 3 months of departure. We care so much about equity that on top of giving offers way above market, we switched to a new legal documents software solely because the old one didn’t support changing the default “3 months” to “10 years”.
@@ -94,6 +100,7 @@ Not sure whether this is for you? Read this candidate's feedback!
 
 ## How to apply
 
-We'd love to meet you! If you’re interested, [head here - TODO](TODO)!
+We'd love to meet you! If you’re interested, [head here](https://app.dover.io/apply/GitStart/b3d8117f-54db-442d-8eba-2de6cc2c99db)!
+
 
 If you want to read more about the team first, you'll find more at [Humans of GitStart](https://humansof.gitstart.com).
