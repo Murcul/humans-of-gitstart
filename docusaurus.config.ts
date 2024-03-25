@@ -58,7 +58,7 @@ const config: Config = {
         // },
         {to: '/blog', label: 'Writing Wall', position: 'left'},
         {
-          href: 'https://github.com/GitStartHQ',
+          href: 'https://github.com/Murcul/humans-of-gitstart',
           label: 'GitHub',
           position: 'right',
         },
