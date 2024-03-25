@@ -1,24 +1,26 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
-# 🛠️ Client Engineering Intern
+# 🛠️ Founding Solutions Architect
 
 ◯˚GitStart turns tickets into PRs for engineering teams. We're growing fast, with 13k+ PRs shipped to prod for Firefox Mobile, Cal.com, Drata, Supabase, StoryBook, Union Bank, and more.
 
 ## Your Mission
 
-You will be joining a newly created team within GitStart called Client Engineering and report directly to the CEO. You will be working directly with engineering teams, who manage some of the largest codebases on the planet. As part of this you will:
+You will be joining a newly created team called Client Engineering and report directly to the CEO. You job will be to help engineering teams use GitStart to build mission critical software used by millions of end users.
 
-- Parse through their roadmap and backlog to identify high leverage tickets
-- Find and understand their most pressing pain-points
-- Build and roll-out features to solve those pain-points
-- Analyse and predict their usage through data analysis and ML models
-- Help on-board new teams to effectively accelerate through GitStart
+As part of this role you will:
+
+- Understand their roadmap to identify highly leveraged projects and initiatives
+- Scope projects into sprints to enable maximum acceleration through GitStart
+- Setup infrastructure to incrementally deploy large initiatives through pull requests merged regularly
+- Identify features to automate and accelerate your work
 
 You'll have a disproportionate impact because:
 
-- We're just starting growth, so all the low hanging fruits are up for grabs
+- You will be the first hire in this role and help define it
+- You will join a newly created team and directly report to the CEO
 - You'll be working on the no. 1 priority of the company
 - You'll be surfing a huge wave: the future of engineering with AI is a top trending topic on virtually every platform
 
@@ -91,10 +93,8 @@ Not sure whether this is for you? Read this candidate's feedback!
 > See, I've been in the industry for quite a long time. And I had lots of interviews and interviewers throughout my career. Some were good, while some sucked big time; as usual. HOWEVER, and I'm not even exaggerating when I say this - interview experience with GitStart was not even ONE OF the best, but absolutely THE BEST I ever had in my 15 years career. Every person that I spoke to in the process was EXTREMELY charismatic, really eager to learn about myself and, what's more, it was absolutely obvious that they LOVED GitStart. I have NEVER EVER EVER seen anything even remotely like this. So how was the process? Amazing! I actually enjoyed it and was looking forward to more of it :D
 >
 
-*For this internship we'll probably replace the hackweek with a short hackday.*
-
 ## How to apply
 
-We'd love to meet you! If you’re interested, [head here - TODO](TODO)!
+We'd love to meet you! If you’re interested, [head here](https://app.dover.io/apply/GitStart/b3c57178-6fb2-440e-9c5b-a71289d29713)!
 
 If you want to read more about the team first, you'll find more at [Humans of GitStart](https://humansof.gitstart.com).

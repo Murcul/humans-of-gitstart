@@ -1,28 +1,33 @@
 ---
-sidebar_position: 5
+sidebar_position: 1
 ---
 
-# 🛠️ Founding Solutions Architect
+# 🎨 Product Designer (Mid Level)
 
 ◯˚GitStart turns tickets into PRs for engineering teams. We're growing fast, with 13k+ PRs shipped to prod for Firefox Mobile, Cal.com, Drata, Supabase, StoryBook, Union Bank, and more.
 
-## Your Mission
+## What You'll Do
+- Craft and maintain precise specs and designs for UI that users love.
+- Give our design system a makeover and expansion that aligns perfectly with our brand vibe.
+- Collaborate with our product, engineering (wizards), and teams across GitStart, creating a sweet spot where coding meets design and brand identity.
 
-You will be joining a newly created team called Client Engineering and report directly to the CEO. You job will be to help engineering teams use GitStart to build mission critical software used by millions of end users.
+## Who We're Looking For
+- Someone who's comfortable deep diving into to the software development lifecycle and gets excited about projects like developing a code review tool or dreaming up a new CLI or IDE.
+- Solid async communication skills, keeping everyone in the loop across platforms and formats.
+- A design storyteller, able to unpack your design choices to anyone from product managers to engineers and even folks who aren't tech-savvy.
+- Knows just when to pull in stakeholders during the design journey.
+- Balances idealistic designs with the real-world hustle of startup life, using expert judgment to navigate through.
+- A thinker who sees the big picture and how all the dots connect.
+- Ready to dive into UX research, lead user studies, or hop on research projects, always keen to integrate feedback into making designs even better.
+- Proud of your strong work ethic, happy to fly solo or team up for some serious code pairing or brainstorming sessions.
+- Gets branding and how to evolve brand directions into killer user experiences.
+- Deeply passionate about design, products, and making users go "wow!", always tinkering with software just because you love it.
 
-As part of this role you will:
+## Tech Toolkit
+- Must be a Figma pro (InDesign and Illustrator also work). Also, familair with Linear, GitHub, and Slack is key.
 
-- Understand their roadmap to identify highly leveraged projects and initiatives
-- Scope projects into sprints to enable maximum acceleration through GitStart
-- Setup infrastructure to incrementally deploy large initiatives through pull requests merged regularly
-- Identify features to automate and accelerate your work
-
-You'll have a disproportionate impact because:
-
-- You will be the first hire in this role and help define it
-- You will join a newly created team and directly report to the CEO
-- You'll be working on the no. 1 priority of the company
-- You'll be surfing a huge wave: the future of engineering with AI is a top trending topic on virtually every platform
+## Would Be Awesome
+- If you've ever kicked off your own project, you're our kind of people! We thrive on creativity and entrepreneurial energy, and your experience would resonate here. Plus, you can showcase your project in a Show & Tell!
 
 ## Work on Hard Problems
 
@@ -62,7 +67,6 @@ Team includes:
 Also, the number one thing newcomers notice is that people are truly kind 😇. More on this when we meet!
 
 ## Perks and Benefits
-
 Non-standard stuff
 
 ⚖️  **10 years options exercise windows** — most startups employees never exercise their hard-earned equity options because the standard clause forces them to buy it within 3 months of departure. We care so much about equity that on top of giving offers way above market, we switched to a new legal documents software solely because the old one didn’t support changing the default “3 months” to “10 years”.
@@ -95,6 +99,7 @@ Not sure whether this is for you? Read this candidate's feedback!
 
 ## How to apply
 
-We'd love to meet you! If you’re interested, [head here - TODO](TODO)!
+We'd love to meet you! If you’re interested, [head here](https://app.dover.io/apply/GitStart/383e18e8-5e03-406e-a606-592cb22a36bd)!
+
 
 If you want to read more about the team first, you'll find more at [Humans of GitStart](https://humansof.gitstart.com).

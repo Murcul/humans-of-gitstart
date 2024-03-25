@@ -1,12 +1,8 @@
-# What's In This Document
+[![Humans of GitStart][repo_logo_img]][repo_url]
 
-- [Get Started in 5 Minutes](#get-started-in-5-minutes)
-- [Editing Content](#editing-content)
-- [Adding Content](#adding-content)
+# ⚡️ Get Started in 5 Minutes
 
-# Get Started in 5 Minutes
-
-1. Make sure all the dependencies for the website are installed:
+1. Make sure all the dependencies are installed (use you fav package manager)
 
 ```sh
 # Install dependencies
@@ -19,14 +15,14 @@ $ npm install
 # Start the site
 $ npm start
 ```
+---
 
-# Editing Content
+# 🖋️ Editing Content
 
 ## Editing an existing docs page
 
 Edit docs by navigating to `docs/` and editing the corresponding document:
-
-`docs/doc-to-be-edited.mdx`
+`docs/gitstart.md`
 
 ```markdown
 ---
@@ -42,8 +38,7 @@ For more information about docs, click [here](https://v2.docusaurus.io/docs)
 ## Editing an existing blog post
 
 Edit blog posts by navigating to `blog` and editing the corresponding post:
-
-`blog/post-to-be-edited.mdx`
+`blog/gitstart.md`
 
 ```markdown
 ---
@@ -57,12 +52,14 @@ Edit me...
 For more information about blog posts, click
 [here](https://v2.docusaurus.io/docs/blog)
 
-# Adding Content
+---
+
+# 📑 Adding Content
 
 ## Adding a new docs page to an existing sidebar
 
 1. Create the doc as a new markdown file in `/docs`, example
-   `docs/newly-created-doc.mdx`:
+   `docs/gitstart.md`:
 
 ```md
 ---
@@ -95,7 +92,15 @@ characters i.e. '\*'.
 For more information about adding new docs, click
 [here](https://v2.docusaurus.io/docs/)
 
-## Contributors
+---
 
-Thanks goes to these wonderful people
-([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+## 🚚 Configuration
+
+1. Everything is managed via `docusaurus.config.ts`
+2. Index are managed via `_category_.json` in each folder
+
+
+<!-- Main -->
+
+[repo_url]: https://github.com/Murcul/humans-of-gitstart
+[repo_logo_img]: https://humansof.gitstart.com/img/gs-ogimage-readme.png

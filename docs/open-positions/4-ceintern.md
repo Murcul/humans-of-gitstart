@@ -1,33 +1,26 @@
 ---
-sidebar_position: 1
+sidebar_position: 4
 ---
 
-# Product Designer (Mid Level)
+# 🛠️ Client Engineering Intern
 
 ◯˚GitStart turns tickets into PRs for engineering teams. We're growing fast, with 13k+ PRs shipped to prod for Firefox Mobile, Cal.com, Drata, Supabase, StoryBook, Union Bank, and more.
 
-## What You'll Do
-- Craft and maintain precise specs and designs for UI that users love.
-- Give our design system a makeover and expansion that aligns perfectly with our brand vibe.
-- Collaborate with our product, engineering (wizards), and teams across GitStart, creating a sweet spot where coding meets design and brand identity.
+## Your Mission
 
-## Who We're Looking For
-- Someone who's comfortable deep diving into to the software development lifecycle and gets excited about projects like developing a code review tool or dreaming up a new CLI or IDE.
-- Solid async communication skills, keeping everyone in the loop across platforms and formats.
-- A design storyteller, able to unpack your design choices to anyone from product managers to engineers and even folks who aren't tech-savvy.
-- Knows just when to pull in stakeholders during the design journey.
-- Balances idealistic designs with the real-world hustle of startup life, using expert judgment to navigate through.
-- A thinker who sees the big picture and how all the dots connect.
-- Ready to dive into UX research, lead user studies, or hop on research projects, always keen to integrate feedback into making designs even better.
-- Proud of your strong work ethic, happy to fly solo or team up for some serious code pairing or brainstorming sessions.
-- Gets branding and how to evolve brand directions into killer user experiences.
-- Deeply passionate about design, products, and making users go "wow!", always tinkering with software just because you love it.
+You will be joining a newly created team within GitStart called Client Engineering and report directly to the CEO. You will be working directly with engineering teams, who manage some of the largest codebases on the planet. As part of this you will:
 
-## Tech Toolkit
-- Must be a Figma pro (InDesign and Illustrator also work). Also, familair with Linear, GitHub, and Slack is key.
+- Parse through their roadmap and backlog to identify high leverage tickets
+- Find and understand their most pressing pain-points
+- Build and roll-out features to solve those pain-points
+- Analyse and predict their usage through data analysis and ML models
+- Help on-board new teams to effectively accelerate through GitStart
 
-## Would Be Awesome
-- If you've ever kicked off your own project, you're our kind of people! We thrive on creativity and entrepreneurial energy, and your experience would resonate here. Plus, you can showcase your project in a Show & Tell!
+You'll have a disproportionate impact because:
+
+- We're just starting growth, so all the low hanging fruits are up for grabs
+- You'll be working on the no. 1 priority of the company
+- You'll be surfing a huge wave: the future of engineering with AI is a top trending topic on virtually every platform
 
 ## Work on Hard Problems
 
@@ -67,6 +60,7 @@ Team includes:
 Also, the number one thing newcomers notice is that people are truly kind 😇. More on this when we meet!
 
 ## Perks and Benefits
+
 Non-standard stuff
 
 ⚖️  **10 years options exercise windows** — most startups employees never exercise their hard-earned equity options because the standard clause forces them to buy it within 3 months of departure. We care so much about equity that on top of giving offers way above market, we switched to a new legal documents software solely because the old one didn’t support changing the default “3 months” to “10 years”.
@@ -97,9 +91,10 @@ Not sure whether this is for you? Read this candidate's feedback!
 > See, I've been in the industry for quite a long time. And I had lots of interviews and interviewers throughout my career. Some were good, while some sucked big time; as usual. HOWEVER, and I'm not even exaggerating when I say this - interview experience with GitStart was not even ONE OF the best, but absolutely THE BEST I ever had in my 15 years career. Every person that I spoke to in the process was EXTREMELY charismatic, really eager to learn about myself and, what's more, it was absolutely obvious that they LOVED GitStart. I have NEVER EVER EVER seen anything even remotely like this. So how was the process? Amazing! I actually enjoyed it and was looking forward to more of it :D
 >
 
+*For this internship we'll probably replace the hackweek with a short hackday.*
+
 ## How to apply
 
-We'd love to meet you! If you’re interested, [head here](https://app.dover.io/apply/GitStart/383e18e8-5e03-406e-a606-592cb22a36bd)!
-
+We'd love to meet you! If you’re interested, [head here](https://app.dover.io/apply/GitStart/3d76ed56-d947-4039-ab74-dd5934da78cb)!
 
 If you want to read more about the team first, you'll find more at [Humans of GitStart](https://humansof.gitstart.com).
