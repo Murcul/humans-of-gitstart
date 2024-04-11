@@ -26,9 +26,11 @@ YOu'll work in the sweet spot where coding meets design and brand identity.
 
 ## Who We're Looking For
 
- We're a deeply technical company where pretty much everyone on the team has a technical background, and we're looking for someone who can match our pace and passion for software.
+We're a deeply technical company where pretty much everyone on the team has a technical background, and we're looking for someone who can match our pace and passion for software.
 
-- You have a strong technical background and are comfortable working with engineers. 
+We care about your ability more than experience, but we expect you to have a few years of experience solo or in a similar role.
+
+- You have a strong technical background and are comfortable working with engineers.
 - You have frontend programming skills and can code some of your designs.
 - You're excited about projects like developing a code review tool or dreaming up a new CLI or IDE.
 - You understand and care about browser performance, accessibility, and usability.
@@ -118,7 +120,6 @@ It’s compensated, of course. And fast: we typically extend offers within 3 wor
 Not sure whether this is for you? Read this candidate's feedback!
 
 > See, I've been in the industry for quite a long time. And I had lots of interviews and interviewers throughout my career. Some were good, while some sucked big time; as usual. HOWEVER, and I'm not even exaggerating when I say this - interview experience with GitStart was not even ONE OF the best, but absolutely THE BEST I ever had in my 15 years career. Every person that I spoke to in the process was EXTREMELY charismatic, really eager to learn about myself and, what's more, it was absolutely obvious that they LOVED GitStart. I have NEVER EVER EVER seen anything even remotely like this. So how was the process? Amazing! I actually enjoyed it and was looking forward to more of it :D
->
 
 ## How to apply
 
