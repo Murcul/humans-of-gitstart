@@ -8,6 +8,8 @@ We try to support everyone and ensure everyone feels valued, supported, and moti
 
 ### Core Benefits
 - **📈 Equity for Everyone:** We believe in sharing our success. Everyone gets a stake in the company.
+- **🧑🏻‍💻 Remote Work / Co Working Budget:** Set up your perfect workspace with our remote work budget.
+- **🥐 Gourmandise (AKA Whatever) Budget:** A little monthly budget to make WFH just that little sweeter.
 - **🌏 Onsites:** We organise and pay for onsite in cool and memorables places. We have an +1 policy.
 - **🏝 Unlimited Paid Time Off:** Take the time you need to relax, explore, and recharge, whenever you need it, without worrying about caps or limits.
 - **🐣 Parental Leave:** Welcoming a new family member is a big moment. We offer generous leave and support to make the transition easy. A few of our team have family - even twins!

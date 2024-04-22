@@ -1,26 +1,33 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
-# 🛠️ Client Engineering Intern
+# 📍 Founder-Track Intern
 
 ◯˚GitStart turns tickets into PRs for engineering teams. We're growing fast, with 13k+ PRs shipped to prod for Firefox Mobile, Cal.com, Drata, Supabase, StoryBook, Union Bank, and more.
 
 ## Your Mission
 
-You will be joining a newly created team within GitStart called Client Engineering and report directly to the CEO. You will be working directly with engineering teams, who manage some of the largest codebases on the planet. As part of this you will:
+Go To Market skills are the difference between wasting years building products with few users and succeeding. Luckily for you, we’re short staffed so we’ll coach you to learn them at GitStart
 
-- Parse through their roadmap and backlog to identify high leverage tickets
-- Find and understand their most pressing pain-points
-- Build and roll-out features to solve those pain-points
-- Analyse and predict their usage through data analysis and ML models
-- Help on-board new teams to effectively accelerate through GitStart
+- ❌ BS work → ✅ Led high priority projects (launch our Ticket Writing LLM on ProductHunt, start paid ads, set-up a new funnel to promote integrations as a use-case, etc)
+- ❌ Glorified data entry to save money → ✅ Get unlimited budget to accelerate yourself with tools and contractors.
+- ❌ Lack of mentorship → ✅ Work directly with founders and mentors we pay to coach you.
 
 You'll have a disproportionate impact because:
 
 - We're just starting growth, so all the low hanging fruits are up for grabs
 - You'll be working on the no. 1 priority of the company
 - You'll be surfing a huge wave: the future of engineering with AI is a top trending topic on virtually every platform
+
+**Concrete Project Example:**
+
+"I learned that within a year of launching paid ads, 83% of the clients of a very similar company came from this channel. This could change the trajectory of the company. I found the person who set ads from scratch there and he agreed to coach us for a fee. Here’s the calendar invitation with him, a credit card with $3k, and a paid ads course recommended by veterans. Let’s go!"
+
+**Job Specific Perk**
+
+- 🏡 Housing is covered - co-live with another 2-3 teammates (interns working on the same projects) in the GitStart House in center of San Francisco (15’ walk from SalesForce Tower), with sea-view and a great gym.
+- Meet people at YC interns only events - YC organizes events in SF for summer interns at YC companies. This internship is elegible for entry at those events.
 
 ## Work on Hard Problems
 
@@ -60,22 +67,17 @@ Team includes:
 Also, the number one thing newcomers notice is that people are truly kind 😇. More on this when we meet!
 
 ## Perks and Benefits
-
 Non-standard stuff
 
-⚖️  **10 years options exercise windows** — most startups employees never exercise their hard-earned equity options because the standard clause forces them to buy it within 3 months of departure. We care so much about equity that on top of giving offers way above market, we switched to a new legal documents software solely because the old one didn’t support changing the default “3 months” to “10 years”.
-- **🛂 Visa Sponsorship:** Dream of living somewhere new? We'll help sponsor your application and help with the visa.
 - **👋 "We Got Your Back" Budget:** Life's little necessities shouldn't be a hassle. Need daycare, new glasses, or a taxi ride? Consider it covered.
 - **🌱 Growing You Budget:** Your personal and professional growth is our priority. Are you continuing your studies, studying something new or want to learn a new skill. We will help!
 - 🌎  **We are a fully remote company** — We hire the best people in the world without restriction. Work wherever and in whichever timezone you want, and travel around the world to meet the team during quarterly onsites.
 
 Standard stuff
 
-- 📈 Equity for everyone who’s full-time
 - 🌏 Onsites
 - 🏝 Unlimited Paid Time Off
-- 🐣 Parental leave
-- 🍽. Meals with fellow GitStarters
+- 🍽 Meals with fellow GitStarters
 - 📞 Something missing? Tell us
 
 Finally, we offer competitive compensation and meaningful equity along with a chance to make a significant contribution to changing the lives of millions of engineers across the world.
@@ -95,6 +97,7 @@ Not sure whether this is for you? Read this candidate's feedback!
 
 ## How to apply
 
-We'd love to meet you! If you’re interested, [head here](https://app.dover.io/apply/GitStart/3d76ed56-d947-4039-ab74-dd5934da78cb)!
+We'd love to meet you! If you’re interested, [head here](https://app.dover.io/apply/GitStart/69926454-4504-437c-8674-64712a098ec8/?rs=76643084)!
+
 
 If you want to read more about the team first, you'll find more at [Humans of GitStart](https://humansof.gitstart.com).
