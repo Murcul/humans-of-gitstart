@@ -4,7 +4,6 @@ sidebar_position: 4
 
 # 🛠️ Founding Solutions Architect
 
-## About GitStart
 ◯˚GitStart turns tickets into PRs for engineering teams, who assign tickets and get back ready to merge PRs. We've shipped 13k+ PRs shipped for Firefox Mobile, Cal.com, Hash.AI, Drata, Supabase, StoryBook, and we're just getting started - backed by some of the best investors and engineering leaders.
 
 ## Your Mission
