@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # 🎨 Design Engineer (Remote)
@@ -7,7 +7,6 @@ sidebar_position: 1
 No agencies. No recruiters. We are looking for a full-time team member.
 
 ## About GitStart
-
 ◯˚GitStart turns tickets into PRs for engineering teams, who assign tickets and get back ready to merge PRs. We've shipped 13k+ PRs shipped for Firefox Mobile, Cal.com, Hash.AI, Drata, Supabase, StoryBook, and we're just getting started - backed by some of the best investors and engineering leaders.
 
 ## What You'll Do
@@ -97,13 +96,13 @@ Also, the number one thing newcomers notice is that people are truly kind 😇. 
 - 🌏 Onsites
 - 🏝 Unlimited Paid Time Off
 - 🐣 Parental leave
-- 🍽. Meals with fellow GitStarters
+- 🖥️ WFH Budget
+- 🍽 Meals with fellow GitStarters
 - 📞 Something missing? Tell us
 
 ### Non-standard stuff
 
--  **10 years options exercise windows** — most startups employees never exercise their hard-earned equity options because the standard clause forces them to buy it within 3 months of departure. We care so much about equity that on top of giving offers way above market, we switched to a new legal documents software solely because the old one didn’t support changing the default “3 months” to “10 years”.
-
+- **⚖️ 10 years options exercise windows** — most startups employees never exercise their hard-earned equity options because the standard clause forces them to buy it within 3 months of departure. We care so much about equity that on top of giving offers way above market, we switched to a new legal documents software solely because the old one didn’t support changing the default “3 months” to “10 years”.
 - **🛂 Visa Sponsorship:** Dream of living somewhere new? We'll help sponsor your application and help with the visa.
 - **👋 "We Got Your Back" Budget:** Life's little necessities shouldn't be a hassle. Need daycare, new glasses, or a taxi ride? Consider it covered.
 - **🌱 Growing You Budget:** Your personal and professional growth is our priority. Are you continuing your studies, studying something new or want to learn a new skill. We will help!
