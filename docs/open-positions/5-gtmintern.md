@@ -2,21 +2,17 @@
 sidebar_position: 5
 ---
 
-# 📍 Founder-Track Intern
+# 📍 Devtool-Founder-Track Intern
 
-◯˚GitStart turns tickets into PRs for engineering teams. We're growing fast, with 13k+ PRs shipped to prod for Firefox Mobile, Cal.com, Drata, Supabase, StoryBook, Union Bank, and more.
+Go To Market skills are the difference between wasting years building products with few users and succeeding. Luckily for you, we’re short staffed so we’ll coach you to learn them at GitStart!
 
-## Your Mission
-
-Go To Market skills are the difference between wasting years building products with few users and succeeding. Luckily for you, we’re short staffed so we’ll coach you to learn them at GitStart
-
-- ❌ BS work → ✅ Led high priority projects (launch our Ticket Writing LLM on ProductHunt, start paid ads, set-up a new funnel to promote integrations as a use-case, etc)
+- ❌ BS work → ✅ Lead high priority projects (launch our Ticket Writing LLM on ProductHunt, start paid ads, set-up a new funnel to promote integrations as a use-case, etc)
 - ❌ Glorified data entry to save money → ✅ Get unlimited budget to accelerate yourself with tools and contractors.
 - ❌ Lack of mentorship → ✅ Work directly with founders and mentors we pay to coach you.
 
-You'll have a disproportionate impact because:
+In other words, this role's day to day will match that of the GTM-focused founder (usually the CEO) of a devtool company. Your mission will be to generate as many sign-ups and demos by launching new avenues for growth from scratch. You'll have a disproportionate impact because:
 
-- We're just starting growth, so all the low hanging fruits are up for grabs
+- We're just starting the growth team, so all the low hanging fruits are up for grabs
 - You'll be working on the no. 1 priority of the company
 - You'll be surfing a huge wave: the future of engineering with AI is a top trending topic on virtually every platform
 
