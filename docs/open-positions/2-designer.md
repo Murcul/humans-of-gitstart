@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 🎨 Design Engineer (Remote)
+# 🎨 Product Designer
 
 No agencies. No recruiters. We are looking for a full-time team member.
 
