@@ -2,30 +2,38 @@
 sidebar_position: 1
 ---
 
-# 📈 GTM Founder
+# 📈 Founding Growth Hacker
 
-◯˚GitStart turns tickets into PRs for engineering teams, who assign tickets and get back ready to merge PRs. We've shipped 13k+ PRs shipped for Firefox Mobile, Cal.com, Hash.AI, Drata, Supabase, StoryBook, and we're just getting started - backed by some of the best investors and engineering leaders.
+You're the no. 1 priority hire🏅! The product sells itself (70%+ conversion upon trial, 2 days in a row on HN frontpage, ProductHunt Product of the day), clients spend in the 6 figures yearly and we have millions in the bank to fix the bottleneck: getting demos! This means you’ll get
+
+- Unlimited budget to accelerate yourself with tools and contractors
+- Headcount to scale successful experiments (1-2 people ASAP for each new channel)
+- Unlimited support from all teams and mentorship from veterans from successes like Figma
+
+◯˚GitStart is a technical product so experience marketing a devtool or dabbling with code is a big plus. Also, remote is welcome!
 
 ## Your Mission
 
 Your mission is remove the bottleneck on growth, aka to get so many people to try the product or book demos that together as a team, we can grow tens of thousands of aspiring engineers across the globe, gather millions of diffs to train AI models, and build a meaningful success story. Concretely, you will:
 
-- Craft experiments that convert across multiple channels (we started finding traction with emailing, tech newsletters, and want to test new channels) - define targeting, write copy when applicable, and scale the winners
-- Analyze data to understand what’s working and what’s not - from writing SQL (we log absolutely everything imaginable) to reading through customer interactions
-- Build a team to accelerate and complement yourself
+- **Craft experiments** that convert across multiple channels (we started finding traction with emailing, tech newsletters, and want to test new channels) - define targeting, write copy when applicable, and scale the winners
+- **Analyze data** to understand what’s working and what’s not - from writing SQL (we log absolutely everything) to reading through customer interactions
+- **Build a team** to accelerate and complement yourself
 
-On top of the classic stuff, we’d love to have fun launching creative experiments inspired by delivering champagne, AirPods Max, and industrializing writing letters!
+On top of the classic stuff, we’d love to have fun launching creative experiments inspired by delivering [champagne](https://twitter.com/samdblond/status/1612518983726424080), [AirPods Max](https://www.qawolf.com/lp/qa-wolf-test-automation-challenge), and [industrializing writing letters](https://twitter.com/aarondfrancis/status/1438888219471491074?lang=en)!
 
-## Who We're Looking For
-We love people who can ship an experiment end to end, learn from it, and scope next experiments, which requires:
+## You're a fit if...
 
-- Years of experience across multiple channels (ads, emailing, sponsorships, etc). 2y minimum (including years as a GTM focused founder)
-- Great engineering culture
-- Good enough grasp of the devtool ecosystem to be able to generate & execute non standard experiments ideas. For example, can turn “we want to try contributing to open-source” into “We can find lots of OSS repos on the Linux foundation website, and select some based on things like whether they have labels for new contributors and no stale PR. Also most projects have a Discord, we could get in touch with the team there”
-- Good enough grasp of software engineering to be able to ask smart questions when interviewing the CTO of a 150 people eng team for a case study
-- Good copywriting skills (note we’re planning on hiring a technical content writer)
-- Good design taste
-- Ability to do things end to end: able to quickly repurpose Figma designs and get contractors to clean them up, to set up simple things like a landing page or more complex ones like programmatic SEO (with some help), etc
+You must enjoy shipping things end to end, which tends to translates these helpful skills/experiences:
+
+- **2+ years experience across multiple growth channels** (ads, emailing, sponsorships, etc). Years as a GTM focused founder count. We’re open to less experience here if you’re written code professionally before.
+- **Copywriting skills** - you’re able to write copy that doesn’t irk engineers. [Here’s a good proxy](https://www.markepear.com/blog/developer-marketing-guide) for what we mean
+- **Design taste -** you can quickly repurpose Figma designs and review contractors’ work
+
+Bonus:
+
+- **Engineering culture -** being able to turn knowledge of the devtool ecosystem into non-standard experiments ideas would be a huge plus. For example, can turn “we want to try contributing to open-source repos” into “We can find lots of OSS repos on the Linux foundation website, and select some based on things like whether they have labels for new contributors and no stale PR. Also, most projects have a Discord, we could get in touch with the team there”.
+- **Remote ready** - we're getting a hacker-house in SF, but outside of this we've have been fully distributed. It’s great if you want to be with your family! Note that one of the founders always flies to new-joiners to make onboarding easier.
 
 ## Work on Hard Problems
 
