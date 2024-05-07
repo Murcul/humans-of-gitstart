@@ -21,7 +21,7 @@ Your responsibilities will include:
 - Craft and maintain precise specs and designs for UI that users love.
 - Extend and improve our design system so it's aligned with our brand.
 
-YOu'll work in the sweet spot where coding meets design and brand identity.
+You'll work in the sweet spot where coding meets design and brand identity.
 
 ## Who We're Looking For
 
@@ -29,14 +29,14 @@ We're a deeply technical company where pretty much everyone on the team has a te
 
 We care about your ability more than experience, but we expect you to have a few years of experience solo or in a similar role.
 
-- You have a strong technical background and are comfortable working with engineers.
-- You have frontend programming skills and can code some of your designs.
+- You have are comfortable working with engineers or have a technical background yourself.
+- You have frontend programming skills and can even code some of your designs or set up design systems.
 - You're excited about projects like developing a code review tool or dreaming up a new CLI or IDE.
+- You're ready to do talk to users and integrate their feedback into making designs even better.
 - You understand and care about browser performance, accessibility, and usability.
 - You have great async, verbal and written communication skills. You're comfortable working with a remote team and can communicate clearly and effectively across many channels.
 - You have a keen eye for detail and strong sense of ownership.
 - You can balance idealistic designs with the real-world hustle of startup life, using expert judgment to decide when to push for perfection and when to ship.
-- You're ready to do talk to users and integrate feedback into making designs even better.
 - You're happy to fly solo or team up for some serious code pairing or brainstorming sessions.
 - You get branding and how to turn an existing brand directions into amazing user experiences.
 - You're passionate about design and products, always tinkering with new apps or software just because you love it.
