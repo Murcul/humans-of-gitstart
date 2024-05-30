@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
-# 📈 Founding Growth Hacker
+# 📈 Head of Customer Success
 
 You're the no. 1 priority hire🏅! The product sells itself (70%+ conversion upon trial, 2 days in a row on HN frontpage, ProductHunt Product of the day), clients spend in the 6 figures yearly and we have millions in the bank to fix the bottleneck: getting demos! This means you’ll get
 
