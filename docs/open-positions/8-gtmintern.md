@@ -1,39 +1,29 @@
 ---
-sidebar_position: 7
+sidebar_position: 8
 ---
 
-# 📈 Growth Hacking Lead
+# 📍 Devtool-Founder-Track Intern
 
-You're the no. 1 priority hire🏅! The product sells itself (70%+ conversion upon trial, 2 days in a row on HN frontpage, ProductHunt Product of the day), clients spend in the 6 figures yearly and we have millions in the bank to fix the bottleneck: getting demos! This means you’ll get
+Go To Market skills are the difference between wasting years building products with few users and succeeding. Luckily for you, we’re short staffed so we’ll coach you to learn them at GitStart!
 
-- Unlimited budget to accelerate yourself with tools and contractors
-- Headcount to scale successful experiments (1-2 people ASAP for each new channel)
-- Unlimited support from all teams and mentorship from veterans from successes like Figma
+- ❌ BS work → ✅ Lead high priority projects (launch our Ticket Writing LLM on ProductHunt, start paid ads, set-up a new funnel to promote integrations as a use-case, etc)
+- ❌ Glorified data entry to save money → ✅ Get unlimited budget to accelerate yourself with tools and contractors.
+- ❌ Lack of mentorship → ✅ Work directly with founders and mentors we pay to coach you.
 
-◯˚GitStart is a technical product so experience marketing a devtool or dabbling with code is a big plus. Also, remote is welcome!
+In other words, this role's day to day will match that of the GTM-focused founder (usually the CEO) of a devtool company. Your mission will be to generate as many sign-ups and demos by launching new avenues for growth from scratch. You'll have a disproportionate impact because:
 
-## Your Mission
+- We're just starting the growth team, so all the low hanging fruits are up for grabs
+- You'll be working on the no. 1 priority of the company
+- You'll be surfing a huge wave: the future of engineering with AI is a top trending topic on virtually every platform
 
-Your mission is remove the bottleneck on growth, aka to get so many people to try the product or book demos that together as a team, we can grow tens of thousands of aspiring engineers across the globe, gather millions of diffs to train AI models, and build a meaningful success story. Concretely, you will:
+**Concrete Project Example:**
 
-- **Craft experiments** that convert across multiple channels (we started finding traction with emailing, tech newsletters, and want to test new channels) - define targeting, write copy when applicable, and scale the winners
-- **Analyze data** to understand what’s working and what’s not - from writing SQL (we log absolutely everything) to reading through customer interactions
-- **Build a team** to accelerate and complement yourself
+"I learned that within a year of launching paid ads, 83% of the clients of a very similar company came from this channel. This could change the trajectory of the company. I found the person who set ads from scratch there and he agreed to coach us for a fee. Here’s the calendar invitation with him, a credit card with $3k, and a paid ads course recommended by veterans. Let’s go!"
 
-On top of the classic stuff, we’d love to have fun launching creative experiments inspired by delivering [champagne](https://twitter.com/samdblond/status/1612518983726424080), [AirPods Max](https://www.qawolf.com/lp/qa-wolf-test-automation-challenge), and [industrializing writing letters](https://twitter.com/aarondfrancis/status/1438888219471491074?lang=en)!
+**Job Specific Perk**
 
-## You're a fit if...
-
-You must enjoy shipping things end to end, which tends to translates these helpful skills/experiences:
-
-- **2+ years experience across multiple growth channels** (ads, emailing, sponsorships, etc). Years as a GTM focused founder count. We’re open to less experience here if you’re written code professionally before.
-- **Copywriting skills** - you’re able to write copy that doesn’t irk engineers. [Here’s a good proxy](https://www.markepear.com/blog/developer-marketing-guide) for what we mean
-- **Design taste -** you can quickly repurpose Figma designs and review contractors’ work
-
-Bonus:
-
-- **Engineering culture -** being able to turn knowledge of the devtool ecosystem into non-standard experiments ideas would be a huge plus. For example, can turn “we want to try contributing to open-source repos” into “We can find lots of OSS repos on the Linux foundation website, and select some based on things like whether they have labels for new contributors and no stale PR. Also, most projects have a Discord, we could get in touch with the team there”.
-- **Remote ready** - we're getting a hacker-house in SF, but outside of this we've have been fully distributed. It’s great if you want to be with your family! Note that one of the founders always flies to new-joiners to make onboarding easier.
+- 🏡 Housing is covered - co-live with another 2-3 teammates (interns working on the same projects) in the GitStart House in center of San Francisco (15’ walk from SalesForce Tower), with sea-view and a great gym.
+- Meet people at YC interns only events - YC organizes events in SF for summer interns at YC companies. This internship is elegible for entry at those events.
 
 ## Work on Hard Problems
 
@@ -43,7 +33,7 @@ Bonus:
 - Ticket writing LLM - load context from the codebase and past tickets to write engineering ready tickets
 - GitSlice - securely share subsets of a codebase
 
-## Backed By the world’s best
+## **Backed By the world’s best**
 We are supported by the best investors in our field, Neo, YC, Bonfire VC, and the world’s best engineering leaders:
 
 - Microsoft CTO Kevin Scott
@@ -61,7 +51,7 @@ We are supported by the best investors in our field, Neo, YC, Bonfire VC, and th
 - Former Facebook CTO Mike Schroepfer
 - And more
 
-## Join An Amazing team
+## **Join An Amazing team**
 Team includes:
 
 - 🔥 >50% former founders, many of mission driven organizations like mPharma (Africa’s best health tech startup, 1k people $100m raised) and CodePhenix (Europe’s largest coding bootcamp for inmates)
@@ -75,19 +65,14 @@ Also, the number one thing newcomers notice is that people are truly kind 😇. 
 ## Perks and Benefits
 Non-standard stuff
 
-- **⚖️ 10 years options exercise windows** — most startups employees never exercise their hard-earned equity options because the standard clause forces them to buy it within 3 months of departure. We care so much about equity that on top of giving offers way above market, we switched to a new legal documents software solely because the old one didn’t support changing the default “3 months” to “10 years”.
-- **🛂 Visa Sponsorship:** Dream of living somewhere new? We'll help sponsor your application and help with the visa.
 - **👋 "We Got Your Back" Budget:** Life's little necessities shouldn't be a hassle. Need daycare, new glasses, or a taxi ride? Consider it covered.
 - **🌱 Growing You Budget:** Your personal and professional growth is our priority. Are you continuing your studies, studying something new or want to learn a new skill. We will help!
 - 🌎  **We are a fully remote company** — We hire the best people in the world without restriction. Work wherever and in whichever timezone you want, and travel around the world to meet the team during quarterly onsites.
 
 Standard stuff
 
-- 📈 Equity for everyone who’s full-time
 - 🌏 Onsites
 - 🏝 Unlimited Paid Time Off
-- 🐣 Parental leave
-- 🖥️ WFH Budget
 - 🍽 Meals with fellow GitStarters
 - 📞 Something missing? Tell us
 
@@ -108,7 +93,7 @@ Not sure whether this is for you? Read this candidate's feedback!
 
 ## How to apply
 
-We'd love to meet you! If you’re interested, [head here](https://app.dover.io/apply/482eaf88-623f-4e72-a58d-10c48df103b9/e8fefe44-16b1-4b7a-8f21-f012a2e827cf/?rs=15190316)!
+We'd love to meet you! If you’re interested, [head here](https://app.dover.io/apply/GitStart/69926454-4504-437c-8674-64712a098ec8/?rs=76643084)!
 
 
 If you want to read more about the team first, you'll find more at [Humans of GitStart](https://humansof.gitstart.com).

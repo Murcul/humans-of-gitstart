@@ -1,34 +1,44 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
-# 📈 Founding Growth Hacker
+# 📈 Head of Customer Success
 
-You're the no. 1 priority hire🏅! The product sells itself (70%+ conversion upon trial, 2 days in a row on HN frontpage, ProductHunt Product of the day), clients spend in the 6 figures yearly and we have millions in the bank to fix the bottleneck: getting demos! This means you’ll get
+You are the key to our client's success 🚀! At GitStart, customer satisfaction is paramount, and with your help, we aim to transform good relationships into great ones. Here's what we offer:
 
-- Unlimited budget to accelerate yourself with tools and contractors
-- Headcount to scale successful experiments (1-2 people ASAP for each new channel)
-- Unlimited support from all teams and mentorship from veterans from successes like Figma
+- Ample resources to enhance customer engagement strategies and tools.
+- Opportunities to expand your team to support growing customer needs quickly.
+- In-depth collaboration across departments and mentorship from market leaders to help you excel in driving customer loyalty and retention.
 
 ◯˚GitStart is a technical product so experience marketing a devtool or dabbling with code is a big plus. Also, remote is welcome!
 
 ## Your Mission
 
-Your mission is remove the bottleneck on growth, aka to get so many people to try the product or book demos that together as a team, we can grow tens of thousands of aspiring engineers across the globe, gather millions of diffs to train AI models, and build a meaningful success story. Concretely, you will:
+Your primary goal as Head of Customer Success at GitStart is to amplify our clients' success and satisfaction, driving significant growth by ensuring our services exceed expectations. Your contributions will help establish GitStart as a leader in the development tools sector by effectively nurturing our client base. Your specific tasks will involve:
 
-- **Craft experiments** that convert across multiple channels (we started finding traction with emailing, tech newsletters, and want to test new channels) - define targeting, write copy when applicable, and scale the winners
-- **Analyze data** to understand what’s working and what’s not - from writing SQL (we log absolutely everything) to reading through customer interactions
-- **Build a team** to accelerate and complement yourself
+- **Strategic Customer Engagement:** Design and implement innovative customer success initiatives that enhance user experience and maximize client retention. Your strategies will directly influence customer lifecycles, from onboarding through ongoing engagement.
 
-On top of the classic stuff, we’d love to have fun launching creative experiments inspired by delivering [champagne](https://twitter.com/samdblond/status/1612518983726424080), [AirPods Max](https://www.qawolf.com/lp/qa-wolf-test-automation-challenge), and [industrializing writing letters](https://twitter.com/aarondfrancis/status/1438888219471491074?lang=en)!
+- **Data-Driven Insights:** Utilize analytical tools to monitor, analyze, and respond to customer usage patterns and feedback. By understanding customer behaviors and needs, you will guide improvements in service delivery and product enhancements.
+
+- **Team Leadership and Development:** Build and lead a customer success team that embodies our core values and operational goals. You will be responsible for training, mentoring, and empowering your team to achieve excellence in all aspects of customer interaction.
+
+- **Customer Advocacy:** Act as a bridge between our customers and internal teams (like product development) to ensure that customer feedback is effectively integrated into product planning and development cycles.
+
+- **Resource Creation:** Develop comprehensive educational materials and resources that assist customers in getting the most out of our platform, thereby improving their overall success and satisfaction.
 
 ## You're a fit if...
 
-You must enjoy shipping things end to end, which tends to translates these helpful skills/experiences:
+We seek a dedicated and experienced leader who understands the dynamics of customer success within the tech industry. You should have:
 
-- **2+ years experience across multiple growth channels** (ads, emailing, sponsorships, etc). Years as a GTM focused founder count. We’re open to less experience here if you’re written code professionally before.
-- **Copywriting skills** - you’re able to write copy that doesn’t irk engineers. [Here’s a good proxy](https://www.markepear.com/blog/developer-marketing-guide) for what we mean
-- **Design taste -** you can quickly repurpose Figma designs and review contractors’ work
+- **Proven Customer Success Background:** Demonstrable experience in customer success, with a deep understanding of customer relations management and retention strategies.
+
+- **Strong Leadership Qualities:** Ability to inspire, lead, and grow a team, ensuring that team objectives align closely with our business goals.
+
+- **Excellent Communication Skills:** Outstanding interpersonal and communication abilities to effectively interact with customers and internal teams, fostering strong relationships.
+
+- **Analytical Competence:** Skilled at analyzing customer data and insights to drive strategic decisions and improve customer experiences.
+
+- **Customer-Centric Mindset:** A genuine passion for achieving customer satisfaction and delivering exceptional service, enhancing customer loyalty and advocacy.
 
 Bonus:
 
@@ -108,7 +118,7 @@ Not sure whether this is for you? Read this candidate's feedback!
 
 ## How to apply
 
-We'd love to meet you! If you’re interested, [head here](https://app.dover.io/apply/482eaf88-623f-4e72-a58d-10c48df103b9/e8fefe44-16b1-4b7a-8f21-f012a2e827cf/?rs=15190316)!
+We'd love to meet you! If you’re interested, [head here](https://app.dover.io/apply/GitStart/a6cee786-722a-4de2-8795-c6b3e23b74d7)!
 
 
 If you want to read more about the team first, you'll find more at [Humans of GitStart](https://humansof.gitstart.com).
