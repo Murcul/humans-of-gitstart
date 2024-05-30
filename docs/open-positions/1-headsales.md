@@ -4,31 +4,43 @@ sidebar_position: 1
 
 # 📈 Head Of Sales
 
-You're the no. 1 priority hire🏅! The product sells itself (70%+ conversion upon trial, 2 days in a row on HN frontpage, ProductHunt Product of the day), clients spend in the 6 figures yearly and we have millions in the bank to fix the bottleneck: getting demos! This means you’ll get
+You're our top-tier talent acquisition 🌟! With a product that's easy to demo and delivers impressive results, our client engagement levels are off the charts. Your role is crucial in scaling this success even further. Here’s what you’ll enjoy:
 
-- Unlimited budget to accelerate yourself with tools and contractors
-- Headcount to scale successful experiments (1-2 people ASAP for each new channel)
-- Unlimited support from all teams and mentorship from veterans from successes like Figma
+- Generous resources to deploy for market expansion and client acquisition.
+- Authority to grow your team rapidly, adding talent as needed to open new sales channels.
+- Strong backing from leadership and access to insights from industry pioneers, helping you make strategic decisions that drive revenue.
 
 ◯˚GitStart is a technical product so experience marketing a devtool or dabbling with code is a big plus. Also, remote is welcome!
 
 ## Your Mission
 
-Your mission is remove the bottleneck on growth, aka to get so many people to try the product or book demos that together as a team, we can grow tens of thousands of aspiring engineers across the globe, gather millions of diffs to train AI models, and build a meaningful success story. Concretely, you will:
+As the Head of Sales at GitStart, your mission is to drive the company’s revenue growth through effective sales strategies and team leadership. You will be pivotal in scaling our client base, particularly by targeting engineering teams that benefit from our accelerated coding solutions. Your role will directly impact GitStart’s market presence and financial success. Your specific tasks will involve:
 
-- **Craft experiments** that convert across multiple channels (we started finding traction with emailing, tech newsletters, and want to test new channels) - define targeting, write copy when applicable, and scale the winners
-- **Analyze data** to understand what’s working and what’s not - from writing SQL (we log absolutely everything) to reading through customer interactions
-- **Build a team** to accelerate and complement yourself
+- **Sales Strategy Development:** Craft and implement comprehensive sales strategies that align with GitStart's business objectives. You will identify growth opportunities, set sales targets, and strategically position our services in the devtools and AI market.
 
-On top of the classic stuff, we’d love to have fun launching creative experiments inspired by delivering [champagne](https://twitter.com/samdblond/status/1612518983726424080), [AirPods Max](https://www.qawolf.com/lp/qa-wolf-test-automation-challenge), and [industrializing writing letters](https://twitter.com/aarondfrancis/status/1438888219471491074?lang=en)!
+- **Team Leadership and Performance Management:** Build, manage, and mentor a sales team to exceed their targets. You will be responsible for setting clear team goals, sales KPIs, and ensuring your team has the training and resources needed to succeed.
+
+- **Client Relationship Management:** Establish and maintain strong relationships with key clients. You will be directly involved in negotiating deals and contracts, ensuring that relationships are both sustainable and profitable.
+
+- **Market and Competitive Analysis:** Keep a pulse on market trends and the competitive landscape to adapt and optimize sales strategies. Your insights will guide the development of new offerings and the refinement of existing products.
+
+- **Cross-Functional Collaboration:** Work closely with the marketing and product teams to ensure alignment on client messaging, product capabilities, and market needs. This collaboration will help refine our go-to-market strategy and product development.
+
+
 
 ## You're a fit if...
 
-You must enjoy shipping things end to end, which tends to translates these helpful skills/experiences:
+We are looking for a driven and experienced sales leader who thrives in a fast-paced tech environment. You should have:
 
-- **2+ years experience across multiple growth channels** (ads, emailing, sponsorships, etc). Years as a GTM focused founder count. We’re open to less experience here if you’re written code professionally before.
-- **Copywriting skills** - you’re able to write copy that doesn’t irk engineers. [Here’s a good proxy](https://www.markepear.com/blog/developer-marketing-guide) for what we mean
-- **Design taste -** you can quickly repurpose Figma designs and review contractors’ work
+- **Proven Sales Leadership:** Extensive experience in leading sales teams, with a track record of achieving or exceeding targets in a tech or software company.
+
+- **Strategic Thinking:** Strong ability to develop strategic sales plans that effectively engage target markets and lead to business growth.
+
+- **Exceptional Interpersonal and Negotiation Skills:** Expertise in building relationships with clients and partners, with a knack for closing deals and fostering long-term relationships.
+
+- **Analytical Skills:** Comfortable with data analysis to inform sales decisions and strategies. Proficiency in sales CRM software is essential.
+
+- **Adaptability and Initiative:** Ability to adapt to a rapidly changing environment and initiate changes that will bring about improvement in sales processes and techniques.
 
 Bonus:
 
@@ -108,7 +120,7 @@ Not sure whether this is for you? Read this candidate's feedback!
 
 ## How to apply
 
-We'd love to meet you! If you’re interested, [head here](https://app.dover.io/apply/482eaf88-623f-4e72-a58d-10c48df103b9/e8fefe44-16b1-4b7a-8f21-f012a2e827cf/?rs=15190316)!
+We'd love to meet you! If you’re interested, [head here](https://app.dover.io/apply/GitStart/0070f5e2-166e-47fa-b927-f3d5d464c8f0)!
 
 
 If you want to read more about the team first, you'll find more at [Humans of GitStart](https://humansof.gitstart.com).

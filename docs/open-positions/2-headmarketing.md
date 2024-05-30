@@ -4,31 +4,38 @@ sidebar_position: 2
 
 # 📈 Head of Marketing
 
-You're the no. 1 priority hire🏅! The product sells itself (70%+ conversion upon trial, 2 days in a row on HN frontpage, ProductHunt Product of the day), clients spend in the 6 figures yearly and we have millions in the bank to fix the bottleneck: getting demos! This means you’ll get
+You're the driving force behind our brand’s growth 🎯! With GitStart's cutting-edge technology, your innovative marketing strategies will captivate and expand our audience. We provide:
 
-- Unlimited budget to accelerate yourself with tools and contractors
-- Headcount to scale successful experiments (1-2 people ASAP for each new channel)
-- Unlimited support from all teams and mentorship from veterans from successes like Figma
+- Unlimited budget to fuel creative campaigns and use state-of-the-art tools.
+- Capability to build your team swiftly, ensuring dynamic market penetration.
+- Comprehensive support from all departments and mentorship from industry experts who have shaped major tech successes.
 
 ◯˚GitStart is a technical product so experience marketing a devtool or dabbling with code is a big plus. Also, remote is welcome!
 
 ## Your Mission
 
-Your mission is remove the bottleneck on growth, aka to get so many people to try the product or book demos that together as a team, we can grow tens of thousands of aspiring engineers across the globe, gather millions of diffs to train AI models, and build a meaningful success story. Concretely, you will:
+As the Head of Marketing at GitStart, your mission is to define and execute marketing strategies that significantly enhance brand visibility and drive market penetration. You will lead the marketing efforts to position GitStart as a leader in the devtools and AI sector, directly impacting the company’s growth trajectory and industry standing. Your specific tasks will involve:
 
-- **Craft experiments** that convert across multiple channels (we started finding traction with emailing, tech newsletters, and want to test new channels) - define targeting, write copy when applicable, and scale the winners
-- **Analyze data** to understand what’s working and what’s not - from writing SQL (we log absolutely everything) to reading through customer interactions
-- **Build a team** to accelerate and complement yourself
+- **Strategic Marketing Leadership:** Develop and implement a comprehensive marketing strategy that aligns with GitStart’s business goals. This includes defining the branding, positioning, and messaging across all channels to resonate with our target audience of engineering teams and tech companies.
 
-On top of the classic stuff, we’d love to have fun launching creative experiments inspired by delivering [champagne](https://twitter.com/samdblond/status/1612518983726424080), [AirPods Max](https://www.qawolf.com/lp/qa-wolf-test-automation-challenge), and [industrializing writing letters](https://twitter.com/aarondfrancis/status/1438888219471491074?lang=en)!
+- **Campaign Management and Execution:** Oversee and execute marketing campaigns that effectively attract and engage potential customers. You will manage both inbound and outbound marketing activities, ensuring they are creative, targeted, and measurable.
+
+- **Content Development and Distribution:** Spearhead the creation of compelling content that educates and engages our target audience. This will include case studies, whitepapers, blog posts, and video content that highlights the benefits of GitStart’s services.
+
+- **Team Building and Leadership:** Build and mentor a marketing team that is both creative and analytical. You will foster a collaborative environment where ideas and strategies can flourish.
+
+- **Data-Driven Decision Making:** Utilize analytics to measure the effectiveness of marketing campaigns and strategies. Insights gained from data will help refine tactics, optimize budget allocation, and enhance overall marketing ROI.
+
+- **Market Research and Customer Insights:** Continuously gather insights about customer preferences, market trends, and competitive actions. This information will inform strategic adjustments and help maintain GitStart’s competitive edge.
 
 ## You're a fit if...
 
-You must enjoy shipping things end to end, which tends to translates these helpful skills/experiences:
-
-- **2+ years experience across multiple growth channels** (ads, emailing, sponsorships, etc). Years as a GTM focused founder count. We’re open to less experience here if you’re written code professionally before.
-- **Copywriting skills** - you’re able to write copy that doesn’t irk engineers. [Here’s a good proxy](https://www.markepear.com/blog/developer-marketing-guide) for what we mean
-- **Design taste -** you can quickly repurpose Figma designs and review contractors’ work
+We seek a visionary and dynamic marketing leader with a proven track record in the tech industry. You should have:
+- **Extensive Marketing Expertise:** Significant experience in marketing within the technology sector, ideally with exposure to devtools or AI technologies.
+- **Leadership and Team Development:** Proven ability to lead marketing teams, inspire creativity, and drive results.
+- **Strong Analytical and Strategic Skills:** Proficient in using data to guide marketing decisions and strategy development.
+- **Excellent Communication and Creativity:** Outstanding ability to craft messages that resonate with a diverse tech audience, alongside a creative approach to marketing challenges.
+- **Adaptability and Proactivity:** Ability to quickly adapt to new trends and proactive in implementing innovative marketing solutions.
 
 Bonus:
 
@@ -108,7 +115,7 @@ Not sure whether this is for you? Read this candidate's feedback!
 
 ## How to apply
 
-We'd love to meet you! If you’re interested, [head here](https://app.dover.io/apply/482eaf88-623f-4e72-a58d-10c48df103b9/e8fefe44-16b1-4b7a-8f21-f012a2e827cf/?rs=15190316)!
+We'd love to meet you! If you’re interested, [head here](https://app.dover.io/apply/GitStart/cd71cfac-c8cb-4430-9d62-9eac9847282b)!
 
 
 If you want to read more about the team first, you'll find more at [Humans of GitStart](https://humansof.gitstart.com).
