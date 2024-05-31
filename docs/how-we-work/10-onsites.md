@@ -9,7 +9,7 @@ While we enjoy the freedom and autonomy remote work offers es, there's undeniabl
 ## Onsites - 1 to 2 per year.
 Once or twice yearly, we unite the entire GitStart family for a 2-week collab mashup, choosing locations with kind climates (someone once complained about winter in Poland!).
 
-We start with a weekend of relaxation to shake off jet lag, followed by a week packed with hard work, strategic planning, cultural bonding, and leisure activities. The second week emphasizes collaborative projects and laying down what we discussed in the fist week. Our gatherings conclude on the second Sunday, sending everyone home with fresh memories and solid plans.
+We start with a weekend of relaxation to shake off jet lag, followed by a week packed with hard work, strategic planning, cultural bonding, and leisure activities. The second week emphasizes collaborative projects and laying down what we discussed in the first week. Our gatherings conclude on the second Sunday, sending everyone home with fresh memories and solid plans.
 
 **Typical Onsite Activities:**
 - Strategic all-hands sessions
