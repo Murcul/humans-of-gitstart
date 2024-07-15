@@ -2,15 +2,15 @@
 sidebar_position: 7
 ---
 
-# 🛠️ Founding Solutions Architect
+# 🛠️ Head of Client Engineering (Solutions Architect)
 
 ◯˚GitStart turns tickets into PRs for engineering teams, who assign tickets and get back ready to merge PRs. We've shipped 13k+ PRs shipped for Firefox Mobile, Cal.com, Hash.AI, Drata, Supabase, StoryBook, and we're just getting started - backed by some of the best investors and engineering leaders. 
 
 ## Your Mission
 
-You will be joining a newly created team called Client Engineering and report directly to the CEO. You job will be to help engineering teams use GitStart to build mission critical software used by millions of end users.
+You will lead a newly created team called Client Engineering and report directly to the CEO. Your job will be to help engineering teams (our clients) use GitStart to build mission-critical software used by millions of end users.
 
-As part of this role you will:
+As part of this role, you will:
 
 - Understand their roadmap to identify highly leveraged projects and initiatives
 - Scope projects into sprints to enable maximum acceleration through GitStart
@@ -20,7 +20,7 @@ As part of this role you will:
 You'll have a disproportionate impact because:
 
 - You will be the first hire in this role and help define it
-- You will join a newly created team and directly report to the CEO
+- You will lead a newly created team of 3 and directly report to the CEO
 - You'll be working on the no. 1 priority of the company
 - You'll be surfing a huge wave: the future of engineering with AI is a top trending topic on virtually every platform
 
@@ -96,6 +96,6 @@ Not sure whether this is for you? Read this candidate's feedback!
 
 ## How to apply
 
-We'd love to meet you! If you’re interested, [head here](https://app.dover.io/apply/GitStart/b3c57178-6fb2-440e-9c5b-a71289d29713)!
+We'd love to meet you! If you’re interested, [head here](https://app.dover.io/apply/482eaf88-623f-4e72-a58d-10c48df103b9/b3c57178-6fb2-440e-9c5b-a71289d29713/?rs=15190316)!
 
 If you want to read more about the team first, you'll find more at [Humans of GitStart](https://humansof.gitstart.com).
