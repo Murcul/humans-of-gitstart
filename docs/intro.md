@@ -8,8 +8,6 @@ slug: /
 What is GitStart **in about 5 minutes**.
 
 ## The Heartbeat of GitStart: Our Purpose and Approach
-
-### Why We're Here
 At GitStart, we're on a mission to transform ideas into tangible code while nurturing the growth of developers.
 
 ## How We Make a Difference
